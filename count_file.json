@@ -1,0 +1,5089 @@
+[
+  {
+    "author_uuid": "15342f96-558c-4891-a3b7-9ac301d11251",
+    "author_name": "Chultem D.",
+    "ORCID": null,
+    "ScopusID": "6602425010",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.4285714285714286
+    }
+  },
+  {
+    "author_uuid": "d99ce36b-b150-4c84-a358-c0da62194653",
+    "author_name": "Evseev V.S.",
+    "ORCID": null,
+    "ScopusID": "16434680100",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "8ee99c0a-b44c-4ae0-982c-d89836aa7a98",
+    "author_name": "Sidorov V.M.",
+    "ORCID": null,
+    "ScopusID": "24531481300",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "747fd005-8904-473c-a60b-e37e718bc4cf",
+    "author_name": "Khalkin V.A.",
+    "ORCID": null,
+    "ScopusID": "6603254171",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "9f2b3499-5b25-4fcd-8909-f358a61bf015",
+    "author_name": "Filchenkov V.V.",
+    "ORCID": null,
+    "ScopusID": "6603439054",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 2.0,
+      "Condensed Matter Physics": 2.0,
+      "Nuclear and High Energy Physics": 2.0,
+      "Physical and Theoretical Chemistry": 2.0
+    }
+  },
+  {
+    "author_uuid": "e7baf4cc-d80b-40fe-92df-a5f14f4ca18a",
+    "author_name": "Soloviev V.G.",
+    "ORCID": null,
+    "ScopusID": "16493123300",
+    "Categories": {
+      "Nuclear and High Energy Physics": 4.833333333333333
+    }
+  },
+  {
+    "author_uuid": "151df649-2836-44f8-b58d-93977da45a68",
+    "author_name": "Stoyanov Ch.",
+    "ORCID": null,
+    "ScopusID": "7003741659",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "0ec4814c-3b47-43ee-b2fa-78cbb447f7be",
+    "author_name": "Vdovin A.I.",
+    "ORCID": null,
+    "ScopusID": "7007179630",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "7d9451a7-38d2-48e0-bea6-e28eb5ea2992",
+    "author_name": "Averichev G.S.",
+    "ORCID": null,
+    "ScopusID": "35226940300",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 4.0,
+      "Nuclear and High Energy Physics": 0.022408963585434174
+    }
+  },
+  {
+    "author_uuid": "de20d8d3-b03e-410e-aa40-bd8a6c284d0f",
+    "author_name": "Barannikova O.",
+    "ORCID": null,
+    "ScopusID": "35226929700",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 2.0
+    }
+  },
+  {
+    "author_uuid": "073fc045-4fd5-4fea-aef3-3c894363682a",
+    "author_name": "Belaga V.V.",
+    "ORCID": null,
+    "ScopusID": "7003670256",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "d0267dd7-0aee-4ad2-96f8-5b8ee8eab468",
+    "author_name": "Chernenko S.P.",
+    "ORCID": null,
+    "ScopusID": "54790573400",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "d3fcea9d-55c4-4aa9-8590-811e60e4a413",
+    "author_name": "Dunin V.B.",
+    "ORCID": null,
+    "ScopusID": "7003935477",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.103030303030303
+    }
+  },
+  {
+    "author_uuid": "cb6dde2d-f577-4401-b15d-6f6fb95d8d8a",
+    "author_name": "Efimov L.G.",
+    "ORCID": null,
+    "ScopusID": "35227153600",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "11dfe2c9-9d79-4a25-86e1-33582e18b609",
+    "author_name": "Gagunashvili N.",
+    "ORCID": null,
+    "ScopusID": "35314721900",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.5924812030075187
+    }
+  },
+  {
+    "author_uuid": "1e2322ca-ad20-44dc-b85d-08b056c086a7",
+    "author_name": "Ivanshin Y.I.",
+    "ORCID": null,
+    "ScopusID": "6602163400",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 4.5
+    }
+  },
+  {
+    "author_uuid": "30eaa4b0-b5a1-41b1-881d-973cb0643d55",
+    "author_name": "Kovalenko A.D.",
+    "ORCID": null,
+    "ScopusID": "56119322700",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "aaaebdd6-5f7e-440d-91a8-df6a4711ebc9",
+    "author_name": "Kulikov A.I.",
+    "ORCID": null,
+    "ScopusID": "35227514800",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.4
+    }
+  },
+  {
+    "author_uuid": "1ad77fae-558a-4df6-a43e-e6ca495b6ee8",
+    "author_name": "Kutuev R.K.",
+    "ORCID": null,
+    "ScopusID": "8625259200",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.36363636363636365
+    }
+  },
+  {
+    "author_uuid": "65b2cc49-36c1-4e7f-b3c1-1c713caeab40",
+    "author_name": "Kuznetsov A.A.",
+    "ORCID": null,
+    "ScopusID": "57050764000",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "6c262cc5-022c-4d54-959a-d6ad93f5254f",
+    "author_name": "Lednicky R.",
+    "ORCID": null,
+    "ScopusID": "7003565377",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.3076923076923077
+    }
+  },
+  {
+    "author_uuid": "f3a54ad7-d364-4e2e-98a3-cfa52e71b45b",
+    "author_name": "Moiseenko V.A.",
+    "ORCID": null,
+    "ScopusID": "7102755721",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2857142857142857
+    }
+  },
+  {
+    "author_uuid": "63205b89-70eb-4a37-9a02-25e11822b188",
+    "author_name": "Nikitin V.A.",
+    "ORCID": null,
+    "ScopusID": "8347780100",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.26666666666666666
+    }
+  },
+  {
+    "author_uuid": "453f814c-4060-4498-bf19-22bf4f438113",
+    "author_name": "Panebratsev Y.",
+    "ORCID": null,
+    "ScopusID": "6603537747",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.25,
+      "Nuclear and High Energy Physics": 0.022408963585434174
+    }
+  },
+  {
+    "author_uuid": "744ac441-5d0a-4c08-8ad1-deb1f6b8b0ee",
+    "author_name": "Petrov V.A.",
+    "ORCID": null,
+    "ScopusID": "58345932500",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.23529411764705882
+    }
+  },
+  {
+    "author_uuid": "ec673c84-1613-4d43-a87e-c4e0f182a921",
+    "author_name": "Potrebenikova E.",
+    "ORCID": null,
+    "ScopusID": "8347782700",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2222222222222222
+    }
+  },
+  {
+    "author_uuid": "3302ef41-a0d6-4917-a523-ab1a7a7ab8b0",
+    "author_name": "Razin S.V.",
+    "ORCID": null,
+    "ScopusID": "35225997400",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.21052631578947367
+    }
+  },
+  {
+    "author_uuid": "23fe307e-756a-4e2e-ac86-321a146fc88b",
+    "author_name": "Rogachevski O.V.",
+    "ORCID": "https://orcid.org/0000-0002-1539-8096",
+    "ScopusID": "8625270200",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2
+    }
+  },
+  {
+    "author_uuid": "467945c8-1243-4f9c-9635-30828ef6f70c",
+    "author_name": "Savin I.",
+    "ORCID": null,
+    "ScopusID": "7004262080",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.21152882205513784
+    }
+  },
+  {
+    "author_uuid": "baca1648-c668-454e-96a1-18236d088a6b",
+    "author_name": "Shahaliev E.",
+    "ORCID": null,
+    "ScopusID": "8625272000",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.18181818181818182,
+      "Nuclear and High Energy Physics": 0.022408963585434174
+    }
+  },
+  {
+    "author_uuid": "2f53e917-0dce-4e56-9436-a3313021a9a1",
+    "author_name": "Shimanskii S.S.",
+    "ORCID": null,
+    "ScopusID": "8306286500",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.17391304347826086
+    }
+  },
+  {
+    "author_uuid": "1a1104ce-4056-44e5-8081-fcc2c4f5c53a",
+    "author_name": "Shvetcov V.S.",
+    "ORCID": null,
+    "ScopusID": "35226017500",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "af07d7c2-685b-44a4-8bbb-7a9f188eec26",
+    "author_name": "Skoro G.",
+    "ORCID": null,
+    "ScopusID": "57548804300",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.16
+    }
+  },
+  {
+    "author_uuid": "4d8ab288-d7e5-41cc-b5c8-ce4df820dee5",
+    "author_name": "Tokarev M.",
+    "ORCID": null,
+    "ScopusID": "7004259976",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.15384615384615385,
+      "Nuclear and High Energy Physics": 2.022408963585434
+    }
+  },
+  {
+    "author_uuid": "2569c455-fc65-417f-8cba-fb10a69c5a31",
+    "author_name": "Vasilevski I.M.",
+    "ORCID": null,
+    "ScopusID": "8347828200",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.14814814814814814
+    }
+  },
+  {
+    "author_uuid": "f34c4a74-d1c3-4d5c-b207-3b78edb89850",
+    "author_name": "Yurevich V.I.",
+    "ORCID": null,
+    "ScopusID": "7004857167",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.14285714285714285
+    }
+  },
+  {
+    "author_uuid": "fc2e9fff-6bfd-4236-ad68-c2feee485cce",
+    "author_name": "Zanevski Y.V.",
+    "ORCID": null,
+    "ScopusID": "8306294000",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.13793103448275862
+    }
+  },
+  {
+    "author_uuid": "16bca1af-773c-49ca-bbbb-a8d954cbf8ff",
+    "author_name": "Zborovsky I.",
+    "ORCID": null,
+    "ScopusID": "6508109705",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.13333333333333333
+    }
+  },
+  {
+    "author_uuid": "fc9c161f-a7b4-451c-b106-593d9251de3d",
+    "author_name": "Zoulkarneev R.",
+    "ORCID": null,
+    "ScopusID": "35228207700",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.12903225806451613
+    }
+  },
+  {
+    "author_uuid": "c500821c-1f8a-4841-b72d-7be3ff89cb16",
+    "author_name": "Zubarev A.N.",
+    "ORCID": null,
+    "ScopusID": "8347832300",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.125
+    }
+  },
+  {
+    "author_uuid": "3226b1aa-2826-4ab5-b3ab-e05271762498",
+    "author_name": "Fechtchenko A.",
+    "ORCID": null,
+    "ScopusID": "6603372656",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 4.0
+    }
+  },
+  {
+    "author_uuid": "c41f1dd2-180d-4884-bdb1-5d1099b88efd",
+    "author_name": "Krivokhijine V.G.",
+    "ORCID": null,
+    "ScopusID": "6701747137",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "cbe87f1a-1767-4006-8e2e-9373bb51e85f",
+    "author_name": "Mitsyn V.",
+    "ORCID": null,
+    "ScopusID": "57200783841",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "264a808b-7a3d-41e8-9ee5-8c9068a2475a",
+    "author_name": "Nagaitsev A.",
+    "ORCID": null,
+    "ScopusID": "13104229300",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.8
+    }
+  },
+  {
+    "author_uuid": "cf56cb4e-6475-4845-958b-233ed4dee8a4",
+    "author_name": "Shutov V.",
+    "ORCID": null,
+    "ScopusID": "8721813500",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.5714285714285714
+    }
+  },
+  {
+    "author_uuid": "151f12a8-d61a-4456-99bc-35bb76bc92ee",
+    "author_name": "Natkaniec I.",
+    "ORCID": null,
+    "ScopusID": "7005826895",
+    "Categories": {
+      "Condensed Matter Physics": 0.6000000000000001,
+      "Electrical and Electronic Engineering": 0.6000000000000001,
+      "Electronic, Optical and Magnetic Materials": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "917fc670-156d-48f1-b28e-7f124c8bb072",
+    "author_name": "Smirnov L.S.",
+    "ORCID": null,
+    "ScopusID": "7203062562",
+    "Categories": {
+      "Condensed Matter Physics": 0.6000000000000001,
+      "Electrical and Electronic Engineering": 0.6000000000000001,
+      "Electronic, Optical and Magnetic Materials": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "c3f86d5c-e9dd-4425-a2c6-4158c7ed0bd1",
+    "author_name": "Bilenky S.M.",
+    "ORCID": null,
+    "ScopusID": "7004697677",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "5678cbb7-0661-4d97-911c-72e8f76457de",
+    "author_name": "Pontecorvo B.",
+    "ORCID": null,
+    "ScopusID": "24527114700",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "3139a1c3-415f-44e3-8837-01b8d86bef22",
+    "author_name": "Kolesnikov V.I.",
+    "ORCID": "https://orcid.org/0000-0001-9918-9699",
+    "ScopusID": "57002551900",
+    "Categories": {
+      "Nuclear and High Energy Physics": 4.363636363636363
+    }
+  },
+  {
+    "author_uuid": "683d2579-f3f0-4708-a47e-e04ae7a6b094",
+    "author_name": "Malakhov A.I.",
+    "ORCID": null,
+    "ScopusID": "7005378952",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0,
+      "Physics and Astronomy (miscellaneous)": 0.034782608695652174
+    }
+  },
+  {
+    "author_uuid": "67def67f-a422-4d2a-bcca-6010d773ae5e",
+    "author_name": "Melkumov G.L.",
+    "ORCID": "https://orcid.org/0009-0004-2074-6755",
+    "ScopusID": "7003536859",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.3333333333333333,
+      "Physics and Astronomy (miscellaneous)": 0.034782608695652174
+    }
+  },
+  {
+    "author_uuid": "ce5161df-11bb-4216-b005-dc1fa6f0e733",
+    "author_name": "Semenov A.Y.",
+    "ORCID": null,
+    "ScopusID": "7402496682",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.2352941176470589
+    }
+  },
+  {
+    "author_uuid": "6f8e7d01-1387-4982-977c-66d435b782e8",
+    "author_name": "Grishin V.G.",
+    "ORCID": null,
+    "ScopusID": "16458179900",
+    "Categories": {
+      "Nuclear and High Energy Physics": 3.0
+    }
+  },
+  {
+    "author_uuid": "a8e05e10-b396-413a-84bc-cd1a3c2026d4",
+    "author_name": "Rotter I.",
+    "ORCID": null,
+    "ScopusID": "7004355679",
+    "Categories": {
+      "Nuclear and High Energy Physics": 3.0
+    }
+  },
+  {
+    "author_uuid": "762e7dd3-1782-495b-9a0f-2bf34f091dc3",
+    "author_name": "Arseniev D.A.",
+    "ORCID": null,
+    "ScopusID": "24578739300",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "1e303ac5-146b-4428-a7c1-7e9fdbcc1266",
+    "author_name": "Fedotov S.I.",
+    "ORCID": null,
+    "ScopusID": "57213383964",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "0aa1eb63-645d-4bc8-a2da-ea0174fb6949",
+    "author_name": "Pashkevich V.V.",
+    "ORCID": null,
+    "ScopusID": "7003625663",
+    "Categories": {
+      "Nuclear and High Energy Physics": 4.0
+    }
+  },
+  {
+    "author_uuid": "78ef6af1-067f-4425-be00-7fd0bc93bd2b",
+    "author_name": "Guzik Z.",
+    "ORCID": null,
+    "ScopusID": "6603510621",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2
+    }
+  },
+  {
+    "author_uuid": "89f562f3-bb3e-45cd-b75e-e690ecd3a36f",
+    "author_name": "Nigmanov T.S.",
+    "ORCID": null,
+    "ScopusID": "6603054148",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2
+    }
+  },
+  {
+    "author_uuid": "c68b8f16-b0be-4a02-96eb-7c4e45879bb5",
+    "author_name": "Riabtsoy V.D.",
+    "ORCID": null,
+    "ScopusID": "22972810800",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2
+    }
+  },
+  {
+    "author_uuid": "e1c1f108-538d-4ef2-9fca-23f20c1e6dda",
+    "author_name": "Tsyganov E.N.",
+    "ORCID": null,
+    "ScopusID": "57065942800",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2
+    }
+  },
+  {
+    "author_uuid": "01458fc0-8918-4c86-97ee-1e5214919ffa",
+    "author_name": "Vodopianov A.S.",
+    "ORCID": null,
+    "ScopusID": "35353030400",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2
+    }
+  },
+  {
+    "author_uuid": "605cf3c9-3e3e-4a1e-bc08-44075c577042",
+    "author_name": "Kolesnikov V.I.",
+    "ORCID": null,
+    "ScopusID": "7101799416",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 4.0
+    }
+  },
+  {
+    "author_uuid": "05ae8f95-e7ae-403e-8c08-5933d23ce1d1",
+    "author_name": "Yu-Semenov A.Y.",
+    "ORCID": null,
+    "ScopusID": "14062722500",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "7ef9b10e-f89b-47b0-9faa-d9da092d0563",
+    "author_name": "Pervushin V.N.",
+    "ORCID": null,
+    "ScopusID": "7003476619",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "759863de-f69b-4f84-999e-694499374cf0",
+    "author_name": "Volkov M.K.",
+    "ORCID": "https://orcid.org/0000-0002-8392-5257",
+    "ScopusID": "7101793824",
+    "Categories": {
+      "Nuclear and High Energy Physics": 3.333333333333333
+    }
+  },
+  {
+    "author_uuid": "fbcf06cb-b212-46d7-9004-9c786d872dd4",
+    "author_name": "Funke H.",
+    "ORCID": null,
+    "ScopusID": "57197169561",
+    "Categories": {
+      "Applied Mathematics": 2.0,
+      "Computer Science Applications": 2.0,
+      "Mathematical Physics": 2.0,
+      "Signal Processing": 2.0,
+      "Theoretical Computer Science": 2.0
+    }
+  },
+  {
+    "author_uuid": "0a5f5f82-1373-4a63-b41d-1c86d73701cc",
+    "author_name": "Ratis Y.",
+    "ORCID": null,
+    "ScopusID": "6602659800",
+    "Categories": {
+      "Applied Mathematics": 2.0,
+      "Computer Science Applications": 2.0,
+      "Mathematical Physics": 2.0,
+      "Signal Processing": 2.0,
+      "Theoretical Computer Science": 2.0
+    }
+  },
+  {
+    "author_uuid": "da8055d6-bd45-4f80-baab-ca7e19772959",
+    "author_name": "Boguslavsky I.V.",
+    "ORCID": null,
+    "ScopusID": "8424051200",
+    "Categories": {
+      "Instrumentation": 3.0,
+      "Nuclear and High Energy Physics": 3.0
+    }
+  },
+  {
+    "author_uuid": "e4d4ea16-c46a-40b3-9cf9-2c81d1d3d838",
+    "author_name": "Gramenitsky I.M.",
+    "ORCID": null,
+    "ScopusID": "8424052200",
+    "Categories": {
+      "Instrumentation": 1.5,
+      "Nuclear and High Energy Physics": 1.5
+    }
+  },
+  {
+    "author_uuid": "a0f47a72-ff4d-4a32-b237-fe6e25674bbb",
+    "author_name": "Kireev V.I.",
+    "ORCID": null,
+    "ScopusID": "7006562555",
+    "Categories": {
+      "Instrumentation": 1.0,
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "55d6651e-5148-4088-bbb3-ef93555c7e8d",
+    "author_name": "Kravtsov V.D.",
+    "ORCID": null,
+    "ScopusID": "7102485247",
+    "Categories": {
+      "Instrumentation": 0.75,
+      "Nuclear and High Energy Physics": 0.75
+    }
+  },
+  {
+    "author_uuid": "a675c767-6398-4124-8f2e-7943a00849dc",
+    "author_name": "Samsonov V.A.",
+    "ORCID": null,
+    "ScopusID": "57223639424",
+    "Categories": {
+      "Instrumentation": 0.6000000000000001,
+      "Nuclear and High Energy Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "9e5c5d78-c9ec-4bf1-bdce-32a54b423fb1",
+    "author_name": "Tolmachev V.T.",
+    "ORCID": null,
+    "ScopusID": "7006667642",
+    "Categories": {
+      "Instrumentation": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "dd9b9018-314d-4723-8ab9-3097c829c607",
+    "author_name": "Ustenko E.P.",
+    "ORCID": null,
+    "ScopusID": "24750942300",
+    "Categories": {
+      "Instrumentation": 0.42857142857142855,
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "fd190da6-8ed0-4e75-bbd4-87773a52dd30",
+    "author_name": "Kopeliovich B.Z.",
+    "ORCID": "https://orcid.org/0000-0003-2804-1499",
+    "ScopusID": "7006510796",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 2.0
+    }
+  },
+  {
+    "author_uuid": "e49cac75-0490-47e1-8a09-34a84d22fd9b",
+    "author_name": "Fomichev A.S.",
+    "ORCID": null,
+    "ScopusID": "7006017478",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "188af173-e81d-428f-b59d-f528a9c03300",
+    "author_name": "David I.",
+    "ORCID": null,
+    "ScopusID": "7005248426",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "1224b51a-f198-41fb-ae90-f0fb3404af01",
+    "author_name": "Ivanov M.P.",
+    "ORCID": null,
+    "ScopusID": "57225337849",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 4.0
+    }
+  },
+  {
+    "author_uuid": "1ada11b0-83a0-4a34-bef2-90c360b6d684",
+    "author_name": "Kuznetzov I.V.",
+    "ORCID": null,
+    "ScopusID": "14024268800",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "88e64407-42c0-4d5b-812d-9f65c54bf9e1",
+    "author_name": "Kushniruk V.F.",
+    "ORCID": null,
+    "ScopusID": "6701453285",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "a697705c-00ef-42e5-bd3f-bbf7ff25777b",
+    "author_name": "Lukyanov S.M.",
+    "ORCID": "https://orcid.org/0000-0002-9540-9137",
+    "ScopusID": "7004533170",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.525
+    }
+  },
+  {
+    "author_uuid": "ab154382-4fd5-493d-b568-3a5bc783f288",
+    "author_name": "Mikhailov L.V.",
+    "ORCID": null,
+    "ScopusID": "7006276944",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "c4f7d010-8bdf-4336-99cb-977a097b41e1",
+    "author_name": "Sobolev Yu.G.",
+    "ORCID": "https://orcid.org/0000-0002-5615-0468",
+    "ScopusID": "7006439458",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "31580f84-2777-4b87-b04c-d83a412d8335",
+    "author_name": "Strottman D.",
+    "ORCID": null,
+    "ScopusID": "8443301900",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "2cf80851-bfb6-4806-afda-3c73acffe444",
+    "author_name": "Ter-Akopian G.M.",
+    "ORCID": null,
+    "ScopusID": "7006139367",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 4.0,
+      "Nuclear and High Energy Physics": 6.0
+    }
+  },
+  {
+    "author_uuid": "99acc943-3713-4661-9268-1cbefe3e3dc3",
+    "author_name": "Oganessian Yu.Ts.",
+    "ORCID": null,
+    "ScopusID": "35401658500",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 2.0,
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "40e99a5c-2e27-479b-ad9c-596609266a66",
+    "author_name": "Popeko G.S.",
+    "ORCID": null,
+    "ScopusID": "6603228214",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.3333333333333333,
+      "Nuclear and High Energy Physics": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "a571a15d-1bc1-41ff-bc2a-97199d4e3a25",
+    "author_name": "Daniel A.V.",
+    "ORCID": null,
+    "ScopusID": "55839541300",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.0,
+      "Nuclear and High Energy Physics": 1.5
+    }
+  },
+  {
+    "author_uuid": "cbc54d37-d76e-4e1a-b9c7-1965c7e03777",
+    "author_name": "Alekseev G.D.",
+    "ORCID": null,
+    "ScopusID": "35314486600",
+    "Categories": {
+      "Nuclear and High Energy Physics": 7.0,
+      "Instrumentation": 3.0
+    }
+  },
+  {
+    "author_uuid": "8cedf167-5687-4f33-8e44-871b2e9d8785",
+    "author_name": "Bardin D.Y.",
+    "ORCID": null,
+    "ScopusID": "35314231300",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0082304526748973
+    }
+  },
+  {
+    "author_uuid": "a9c01b25-db6c-40e0-baca-50c020405b46",
+    "author_name": "Hons Z.",
+    "ORCID": "https://orcid.org/0000-0002-3384-6198",
+    "ScopusID": "24474599400",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "99a51c6d-0224-458d-8ecf-35bb6a3c9c50",
+    "author_name": "Kuznetsov V.V.",
+    "ORCID": null,
+    "ScopusID": "57199931581",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "f9873dad-dfb3-48a5-8f00-fcf3e10c21e5",
+    "author_name": "Muminov T.M.",
+    "ORCID": "https://orcid.org/0000-0001-8274-8810",
+    "ScopusID": "6701345534",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "ef2e3a5e-f585-47e3-b35f-fe6e8ca0c239",
+    "author_name": "Usmanov R.R.",
+    "ORCID": null,
+    "ScopusID": "7006114669",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "0a2e6e08-ba51-47ec-83d7-6110c97a79c8",
+    "author_name": "Sandulescu A.",
+    "ORCID": null,
+    "ScopusID": "7005867392",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "b7cc95d7-42f0-49fb-b788-369124d13c04",
+    "author_name": "Kamalov S.S.",
+    "ORCID": null,
+    "ScopusID": "7007084994",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.75
+    }
+  },
+  {
+    "author_uuid": "431959cf-0ead-4782-ab85-ac4005852d00",
+    "author_name": "Droste Ch.",
+    "ORCID": null,
+    "ScopusID": "7003601566",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "6d3bd690-fdeb-4bc8-a46e-0950bdf5b3a2",
+    "author_name": "Neubert W.",
+    "ORCID": null,
+    "ScopusID": "7004992343",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "92f946c2-45b0-414b-95c0-78b1c81adb6a",
+    "author_name": "Lewltowicz J.",
+    "ORCID": null,
+    "ScopusID": "24600380700",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "129105d9-5711-4dec-8f39-b698cdf32b43",
+    "author_name": "Chojnacki S.",
+    "ORCID": null,
+    "ScopusID": "22960513600",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "55dc2aaa-02a0-4ba8-b8bb-f3ff78adc8d8",
+    "author_name": "Morek T.",
+    "ORCID": null,
+    "ScopusID": "6701681080",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "54d4b029-6cd7-4892-8fc0-403eeac2c05f",
+    "author_name": "Wilhelmi Z.",
+    "ORCID": null,
+    "ScopusID": "6603745458",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "3fd9760b-b3fa-4bc9-8d3c-40fe21d7865d",
+    "author_name": "Alexander K.F.",
+    "ORCID": null,
+    "ScopusID": "24592555600",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "3fd2c281-6e76-466e-b020-7e014db262ea",
+    "author_name": "Goldenberg C.A.",
+    "ORCID": null,
+    "ScopusID": "12793702300",
+    "Categories": {
+      "Instrumentation": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "03efc836-3c88-40eb-baa2-9d47d3a7287c",
+    "author_name": "Kaminsky A.K.",
+    "ORCID": null,
+    "ScopusID": "57196875567",
+    "Categories": {
+      "Instrumentation": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "7d678298-a7d6-4639-a47c-536b4ea1a271",
+    "author_name": "Sedykh S.N.",
+    "ORCID": null,
+    "ScopusID": "35355562300",
+    "Categories": {
+      "Instrumentation": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "1a225984-0961-4d12-871d-bd02349b01d0",
+    "author_name": "Sergeev A.P.",
+    "ORCID": null,
+    "ScopusID": "7201446874",
+    "Categories": {
+      "Instrumentation": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "7ea4bff5-306e-4400-b610-f95bee75c246",
+    "author_name": "Alexeev G.D.",
+    "ORCID": null,
+    "ScopusID": "35226935500",
+    "Categories": {
+      "Nuclear and High Energy Physics": 4.0
+    }
+  },
+  {
+    "author_uuid": "dfbbdea0-b64a-4e95-8332-f1ffae2b622a",
+    "author_name": "Bilenky M.S.",
+    "ORCID": null,
+    "ScopusID": "7006056283",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.833333333333333,
+      "Instrumentation": 1.5
+    }
+  },
+  {
+    "author_uuid": "f3025576-1994-46da-ab4e-6f944fe64344",
+    "author_name": "Bogolubov P.N.",
+    "ORCID": null,
+    "ScopusID": "6603848924",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "5099e8e8-3942-47bd-be45-dfbe70e97b98",
+    "author_name": "Chelkov G.A.",
+    "ORCID": null,
+    "ScopusID": "7006411063",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.8
+    }
+  },
+  {
+    "author_uuid": "95c30be3-3615-4b08-8fd9-50139ae346bd",
+    "author_name": "Golovatyuk V.M.",
+    "ORCID": "https://orcid.org/0000-0001-5378-4919",
+    "ScopusID": "56228724800",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "414029de-9768-49a6-8080-0c96a3def84d",
+    "author_name": "Gotra Y.N.",
+    "ORCID": null,
+    "ScopusID": "35225777000",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5714285714285714
+    }
+  },
+  {
+    "author_uuid": "8cd46ab0-f847-4c04-b791-19a127d6ec28",
+    "author_name": "Kadyrov R.B.",
+    "ORCID": null,
+    "ScopusID": "7005884288",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "45ce7680-1351-49bb-a1b4-5214b7ea2588",
+    "author_name": "Khomenko B.A.",
+    "ORCID": null,
+    "ScopusID": "7003948713",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "a07608b8-2b72-4bc1-bcf4-c4a9b18bf93b",
+    "author_name": "Lokajicek M.",
+    "ORCID": null,
+    "ScopusID": "24759171600",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4
+    }
+  },
+  {
+    "author_uuid": "f044f882-4628-488f-8823-56c2289724d1",
+    "author_name": "Eramzhian R.A.",
+    "ORCID": null,
+    "ScopusID": "6504673716",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "fe779002-7624-4a0c-8d41-7cbffe17a8f4",
+    "author_name": "Jäger H.U.",
+    "ORCID": null,
+    "ScopusID": "8041420900",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "5509ef36-0d7c-4bd2-b075-a7f8c2bc4a8d",
+    "author_name": "Münchow L.",
+    "ORCID": null,
+    "ScopusID": "22998487200",
+    "Categories": {
+      "Nuclear and High Energy Physics": 4.0
+    }
+  },
+  {
+    "author_uuid": "b18411f5-7223-4bbe-8793-db530d6266ac",
+    "author_name": "Nichitiug F.",
+    "ORCID": null,
+    "ScopusID": "24312710800",
+    "Categories": {
+      "Nuclear and High Energy Physics": 3.0
+    }
+  },
+  {
+    "author_uuid": "47cc6f18-2a7d-45f3-9fe1-54cd9e94fc3d",
+    "author_name": "Rozhdestvensky A.M.",
+    "ORCID": null,
+    "ScopusID": "7004087571",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.5
+    }
+  },
+  {
+    "author_uuid": "3e88dc0e-ed1a-4d44-890a-9de4aa2300dc",
+    "author_name": "Sapozhnikov M.G.",
+    "ORCID": null,
+    "ScopusID": "57190430854",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "cc453908-86cb-43e5-a837-49b8034cdc0c",
+    "author_name": "P.Temnikov",
+    "ORCID": null,
+    "ScopusID": "55666416700",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.75
+    }
+  },
+  {
+    "author_uuid": "9905c555-b0ad-42bd-b2e6-b5606a329a0a",
+    "author_name": "Alfimenkov V.P.",
+    "ORCID": null,
+    "ScopusID": "6602365122",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "c0ce6e6f-4d74-40cb-8314-f6e5b128be6e",
+    "author_name": "Vagov V.A.",
+    "ORCID": null,
+    "ScopusID": "24567277600",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "516d911d-9e84-471b-9045-1c39fde0da65",
+    "author_name": "Zamrij V.N.",
+    "ORCID": null,
+    "ScopusID": "6507451978",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "b66c35ff-ebec-4454-a529-263bfe068795",
+    "author_name": "Lason L.",
+    "ORCID": null,
+    "ScopusID": "12780151700",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "66ea68be-3698-4274-9f5c-89349488ed9a",
+    "author_name": "Mareev Yu.D.",
+    "ORCID": null,
+    "ScopusID": "6603877258",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "d02c7a8f-a24e-46eb-aac5-671773304387",
+    "author_name": "Ovchinnikov O.N.",
+    "ORCID": null,
+    "ScopusID": "24519658400",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "1a5e3159-2d99-431e-8b7f-fc3b11452969",
+    "author_name": "Pikelner L.B.",
+    "ORCID": null,
+    "ScopusID": "6505998681",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "d5716592-d436-40e6-b118-8d487b4898dd",
+    "author_name": "Salai S.",
+    "ORCID": null,
+    "ScopusID": "24566567100",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "1802f311-2c20-472a-9c45-1dfbf6e307ce",
+    "author_name": "Sharapov E.I.",
+    "ORCID": null,
+    "ScopusID": "7004524464",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "bfdbdad0-a8f3-41dc-b852-f99942daf41e",
+    "author_name": "Korenev S.A.",
+    "ORCID": null,
+    "ScopusID": "56121517100",
+    "Categories": {
+      "Instrumentation": 2.0,
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "e0e66f8b-78b4-477d-87c4-fdac5ef49d99",
+    "author_name": "Gareev F.A.",
+    "ORCID": null,
+    "ScopusID": "6602846391",
+    "Categories": {
+      "Nuclear and High Energy Physics": 4.5
+    }
+  },
+  {
+    "author_uuid": "0b70eb37-a7e6-4eff-be95-c1fe677e0907",
+    "author_name": "Kovalenko S.G.",
+    "ORCID": null,
+    "ScopusID": "7101988084",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 2.083333333333333
+    }
+  },
+  {
+    "author_uuid": "f1e30df0-b6cf-44dd-bf21-6289c023c397",
+    "author_name": "Abazov V.M.",
+    "ORCID": null,
+    "ScopusID": "35226918200",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "924aecb3-2f42-4fce-803f-2560d9f44bfd",
+    "author_name": "Butsev V.S.",
+    "ORCID": null,
+    "ScopusID": "6603013169",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "dfc3173a-4fd7-42bd-939f-35aa2323d064",
+    "author_name": "Gavrilov Yu.K.",
+    "ORCID": null,
+    "ScopusID": "57206028494",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "05f467ce-fca6-4bd6-8ea9-5ff97a807c14",
+    "author_name": "Kurepin A.B.",
+    "ORCID": null,
+    "ScopusID": "7003541726",
+    "Categories": {
+      "Nuclear and High Energy Physics": 3.6
+    }
+  },
+  {
+    "author_uuid": "18d8c7de-bd78-4d34-8c49-ea410ffa1eb4",
+    "author_name": "Truhlik E.",
+    "ORCID": null,
+    "ScopusID": "6602439240",
+    "Categories": {
+      "Nuclear and High Energy Physics": 3.0
+    }
+  },
+  {
+    "author_uuid": "d2aee0f6-84bc-4769-ad6c-926cbc4bcf02",
+    "author_name": "Bogdanov D.D.",
+    "ORCID": null,
+    "ScopusID": "7004086108",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5714285714285714
+    }
+  },
+  {
+    "author_uuid": "352c353e-9000-4496-9eee-6d8352d76abf",
+    "author_name": "Rodin A.M.",
+    "ORCID": null,
+    "ScopusID": "7101726268",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5714285714285714
+    }
+  },
+  {
+    "author_uuid": "c834d4f2-1b8b-4429-b6c0-2161bbe63ef2",
+    "author_name": "Vakatov V.I.",
+    "ORCID": null,
+    "ScopusID": "6507844459",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5714285714285714
+    }
+  },
+  {
+    "author_uuid": "3cf8aba8-ecac-432b-b191-888aa2ea2af4",
+    "author_name": "Voronin A.S.",
+    "ORCID": null,
+    "ScopusID": "7103245961",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5714285714285714
+    }
+  },
+  {
+    "author_uuid": "9fcb5501-fa7c-4e6f-91c2-6989e2984e25",
+    "author_name": "Mikhailov I.N.",
+    "ORCID": null,
+    "ScopusID": "7201442696",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.2666666666666666
+    }
+  },
+  {
+    "author_uuid": "164fe189-62a9-4021-b217-41774f2594a4",
+    "author_name": "Nadjakov E.G.",
+    "ORCID": null,
+    "ScopusID": "22993911800",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "a94058af-564b-4576-89e2-364ab3816007",
+    "author_name": "Aiche M.",
+    "ORCID": null,
+    "ScopusID": "6603758083",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "43f37ef4-970c-4104-ace0-dd5c2da6fd43",
+    "author_name": "Briancon C.",
+    "ORCID": null,
+    "ScopusID": "7004309673",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "e5a3f525-5fa1-4d9e-8cbd-3c52833dcfeb",
+    "author_name": "Schulz N.",
+    "ORCID": null,
+    "ScopusID": "7103038064",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "57e248e3-1eb9-4dd3-b66c-37a786f81f7b",
+    "author_name": "Vanin V.",
+    "ORCID": null,
+    "ScopusID": "7006658246",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "46550165-2d22-4da5-9308-365f8ba260d4",
+    "author_name": "Morosov B.",
+    "ORCID": null,
+    "ScopusID": "6701558252",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 2.0
+    }
+  },
+  {
+    "author_uuid": "0aaf6853-b046-4b30-9cc1-24a8b0fb68e3",
+    "author_name": "Povtorejko A.",
+    "ORCID": null,
+    "ScopusID": "6603255382",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "359b024e-156c-4bf9-b607-d08d396fe676",
+    "author_name": "Zernov A.",
+    "ORCID": null,
+    "ScopusID": "6701346420",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "010e251c-f84d-4fa3-83c2-1b650cc56795",
+    "author_name": "Gizzatkulov M.Ch.",
+    "ORCID": null,
+    "ScopusID": "24546183900",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "251ab0a1-712c-43b8-8f90-cf26ce4f860f",
+    "author_name": "Revai J.",
+    "ORCID": "https://orcid.org/0000-0001-8778-4490",
+    "ScopusID": "9838810900",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "e2eed3a5-90d5-4d51-8656-af9cd88b6fb9",
+    "author_name": "Lushchikov V.I.",
+    "ORCID": null,
+    "ScopusID": "24383633400",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "76248259-b715-4e60-b629-9f4d0044f723",
+    "author_name": "Pokotilovsky Yu.N.",
+    "ORCID": null,
+    "ScopusID": "24585649300",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "b2cda0f5-2df0-455c-a860-b820e3e063f7",
+    "author_name": "Strelkov A.V.",
+    "ORCID": null,
+    "ScopusID": "7004568159",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "0068adb6-b6be-473f-aa36-2b3563a084d3",
+    "author_name": "Shapiro F.L.",
+    "ORCID": null,
+    "ScopusID": "24586263400",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "f641bd28-7869-496c-afc5-ca7abee2a432",
+    "author_name": "Lazarev Yu.A.",
+    "ORCID": null,
+    "ScopusID": "35839071600",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "37eca6b1-34de-4e69-9750-8195983ab078",
+    "author_name": "Barashenkov V.S.",
+    "ORCID": null,
+    "ScopusID": "7003798319",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 1.125
+    }
+  },
+  {
+    "author_uuid": "5bc40a8b-d6c4-4b05-a2dd-67fabb197fd3",
+    "author_name": "Volchansky A.V.",
+    "ORCID": null,
+    "ScopusID": "24371315000",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "f734b3be-0bef-4e24-80a3-c908b81dffe2",
+    "author_name": "Kondrat'ev L.N.",
+    "ORCID": null,
+    "ScopusID": "6603639698",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "660b6ce4-d0b9-419c-8762-1377fe6fb6ed",
+    "author_name": "Pomelov N.N.",
+    "ORCID": null,
+    "ScopusID": "6504746573",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "058a7559-ed4f-40d0-9c2d-2d745087ea05",
+    "author_name": "Rusinov V.Yu.",
+    "ORCID": null,
+    "ScopusID": "7006493786",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "94baf0af-539c-432c-a64f-88bd6cdba624",
+    "author_name": "Sosnin A.N.",
+    "ORCID": null,
+    "ScopusID": "7004849367",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "943ca54b-7ba0-4e0b-a20c-a9d7fe07f009",
+    "author_name": "Taranenko P.I.",
+    "ORCID": null,
+    "ScopusID": "6602315549",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "9f5f91e7-bea6-478d-9b39-68b84a457115",
+    "author_name": "Fedotov S.N.",
+    "ORCID": "https://orcid.org/0000-0002-4112-1672",
+    "ScopusID": "7007104435",
+    "Categories": {
+      "Instrumentation": 0.375,
+      "Nuclear and High Energy Physics": 0.375
+    }
+  },
+  {
+    "author_uuid": "7a64f9a2-597b-4159-8000-00eabf1b8158",
+    "author_name": "Apollinari G.",
+    "ORCID": null,
+    "ScopusID": "56448123700",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 4.0
+    }
+  },
+  {
+    "author_uuid": "ff8a6176-b36e-4caf-969a-4997ba19468d",
+    "author_name": "Byon-Wagner A.",
+    "ORCID": null,
+    "ScopusID": "14526846800",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 2.0
+    }
+  },
+  {
+    "author_uuid": "26df3cab-475b-44d9-933c-32b7e513b267",
+    "author_name": "Taratin A.M.",
+    "ORCID": null,
+    "ScopusID": "6701617314",
+    "Categories": {
+      "Instrumentation": 2.0,
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "13bae2d6-a87a-4dcd-9e45-c97f59fd16b6",
+    "author_name": "Toneev V.D.",
+    "ORCID": null,
+    "ScopusID": "7004510419",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.25
+    }
+  },
+  {
+    "author_uuid": "07d52adb-a738-494c-9b66-5317ef356c4b",
+    "author_name": "Gudima K.K.",
+    "ORCID": null,
+    "ScopusID": "6701469395",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.5
+    }
+  },
+  {
+    "author_uuid": "eb57b40e-9377-4a42-89e3-21f5e118b7e0",
+    "author_name": "Mitrjushkin V.K.",
+    "ORCID": null,
+    "ScopusID": "7004109939",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "f074efbf-a085-42c3-955d-04e5f3fcb584",
+    "author_name": "Zadorozhny A.M.",
+    "ORCID": null,
+    "ScopusID": "24361832300",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "68135e69-6776-4edc-9977-bf4a90da25a6",
+    "author_name": "Schulz H.",
+    "ORCID": null,
+    "ScopusID": "22964200000",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "ec3f0ea4-6719-4a0b-a94f-bfd025792583",
+    "author_name": "Wiebicke H.J.",
+    "ORCID": null,
+    "ScopusID": "6602607392",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "71a07614-af9d-4043-b4a2-7c8b84f21391",
+    "author_name": "Bonyushkin Yu.Ye.",
+    "ORCID": null,
+    "ScopusID": "6505913613",
+    "Categories": {
+      "Instrumentation": 0.75,
+      "Nuclear and High Energy Physics": 0.75
+    }
+  },
+  {
+    "author_uuid": "8383c6eb-4e62-4c39-a263-528db90dfc6d",
+    "author_name": "Korytov A.V.",
+    "ORCID": null,
+    "ScopusID": "35227508400",
+    "Categories": {
+      "Instrumentation": 0.75,
+      "Nuclear and High Energy Physics": 0.75
+    }
+  },
+  {
+    "author_uuid": "52a0b583-8839-4956-a96d-49ac28006365",
+    "author_name": "Barsov S.G.",
+    "ORCID": null,
+    "ScopusID": "6602089366",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "ba40b1ed-f1d7-45ce-b9b1-97bd3eb6164c",
+    "author_name": "Getalov A.L.",
+    "ORCID": null,
+    "ScopusID": "6508323087",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "eec6d756-ca19-4c8b-84bb-8ee81aa58159",
+    "author_name": "Grebinnik V.G.",
+    "ORCID": null,
+    "ScopusID": "6701465451",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "51101160-4bb4-4193-b862-87484c0b6a9c",
+    "author_name": "Gordeev V.A.",
+    "ORCID": null,
+    "ScopusID": "16434756500",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "ba97b4fa-cd6b-4289-94dd-de49dc6980fd",
+    "author_name": "Gurevich I.I.",
+    "ORCID": null,
+    "ScopusID": "7005966911",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "da560e51-7aed-4cb6-9a5e-11c13dcf5d4b",
+    "author_name": "Kagan Yu.M.",
+    "ORCID": null,
+    "ScopusID": "7006314555",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "e90435bd-ef51-4ebb-b8db-dde993262772",
+    "author_name": "Klimov A.I.",
+    "ORCID": null,
+    "ScopusID": "57210720211",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "3ae83446-ff9c-45a5-88c0-35b161e44742",
+    "author_name": "Kruglov S.P.",
+    "ORCID": null,
+    "ScopusID": "7005080668",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "92826331-e035-4144-9e5a-533ce5a308ea",
+    "author_name": "Kuzmin L.A.",
+    "ORCID": null,
+    "ScopusID": "7004170724",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "6c84c2d3-92fc-4b6c-abd8-a75f47a6733b",
+    "author_name": "Lazarev A.B.",
+    "ORCID": null,
+    "ScopusID": "36061073700",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "1541fe8e-dffd-42b1-9477-cf766d128eb1",
+    "author_name": "Mikirtychyants S.M.",
+    "ORCID": null,
+    "ScopusID": "6507216210",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "9637f24d-147c-4599-91fa-21c8d05657f5",
+    "author_name": "Nikolsky B.A.",
+    "ORCID": null,
+    "ScopusID": "6506718178",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "dec75669-daf6-4105-97db-b487ebf67f19",
+    "author_name": "Pirogov A.V.",
+    "ORCID": null,
+    "ScopusID": "7102990549",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "d4e482b5-de10-4e9c-a14e-662a68d95dcf",
+    "author_name": "Ponomarev A.N.",
+    "ORCID": null,
+    "ScopusID": "57187022400",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "221eff58-f58b-43ab-a4e3-748fb8343143",
+    "author_name": "Selivanov V.I.",
+    "ORCID": "https://orcid.org/0000-0002-5562-1811",
+    "ScopusID": "16470130700",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "84c47d71-446a-4410-84f8-65a5373969bb",
+    "author_name": "Shcherbakov G.V.",
+    "ORCID": null,
+    "ScopusID": "7003843188",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "3a2af077-3691-4c54-8299-1bb2200ee284",
+    "author_name": "Suetin V.A.",
+    "ORCID": null,
+    "ScopusID": "6601986840",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "f8a4ae91-df73-4d1a-97e1-e23f243061cb",
+    "author_name": "Zhukov V.A.",
+    "ORCID": null,
+    "ScopusID": "57213448375",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Condensed Matter Physics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111,
+      "Physical and Theoretical Chemistry": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "1900619e-16f3-4cfc-a256-d7b1f8641137",
+    "author_name": "Malov L.A.",
+    "ORCID": null,
+    "ScopusID": "9240428200",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "f99dc397-2b59-4767-a9bf-d6aad9d39db2",
+    "author_name": "Voronov V.V.",
+    "ORCID": null,
+    "ScopusID": "7101821876",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "ea4bb375-32ed-4877-9000-532b0a7b036b",
+    "author_name": "Flerov G.N.",
+    "ORCID": null,
+    "ScopusID": "6701596258",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "b2567123-d721-4cce-9adb-88e56df1bc5b",
+    "author_name": "Pleve A.A.",
+    "ORCID": null,
+    "ScopusID": "6504337864",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "be5213f2-3ca9-4768-8b83-a15a7d3fc02c",
+    "author_name": "Polikanov S.M.",
+    "ORCID": null,
+    "ScopusID": "16422270700",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "497a5671-eff1-4147-b165-6bf1f3e43460",
+    "author_name": "Tretyakova S.P.",
+    "ORCID": null,
+    "ScopusID": "7004050597",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "a007042c-46b3-410f-9df3-62c982f0d1b5",
+    "author_name": "Korobov V.I.",
+    "ORCID": "https://orcid.org/0000-0003-3724-0270",
+    "ScopusID": "7102381184",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 1.0,
+      "Condensed Matter Physics": 2.0,
+      "Nuclear and High Energy Physics": 1.0,
+      "Physical and Theoretical Chemistry": 2.0
+    }
+  },
+  {
+    "author_uuid": "3cad3c66-ea03-402e-8c1f-19d2c8fdcfbb",
+    "author_name": "Litkin L.K.",
+    "ORCID": null,
+    "ScopusID": "22971745200",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.26666666666666666
+    }
+  },
+  {
+    "author_uuid": "94b49d9f-6635-4158-8782-a565d98444dd",
+    "author_name": "Sychkov S.I.",
+    "ORCID": null,
+    "ScopusID": "22973460100",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.26666666666666666
+    }
+  },
+  {
+    "author_uuid": "dfe57496-9454-4773-b8c5-966eeb645034",
+    "author_name": "Tyapkin A.A.",
+    "ORCID": null,
+    "ScopusID": "6602901284",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.26666666666666666
+    }
+  },
+  {
+    "author_uuid": "8f8441dd-d53d-40da-a781-302cfd47ce56",
+    "author_name": "Vassilevski I.M.",
+    "ORCID": null,
+    "ScopusID": "22973457200",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.26666666666666666
+    }
+  },
+  {
+    "author_uuid": "5df0f9e0-e5c1-44c7-9aa6-481baa17407b",
+    "author_name": "Vishniakov V.V.",
+    "ORCID": null,
+    "ScopusID": "22973439900",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.26666666666666666
+    }
+  },
+  {
+    "author_uuid": "38e1ca4f-5b81-4e56-b54a-ac1a8aedff14",
+    "author_name": "Zaimidoroga O.A.",
+    "ORCID": null,
+    "ScopusID": "6602856146",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.26666666666666666
+    }
+  },
+  {
+    "author_uuid": "b9b3947f-ee9f-40be-8cf9-6eb71a25ae26",
+    "author_name": "Lisov V.I.",
+    "ORCID": "https://orcid.org/0000-0003-3781-1950",
+    "ScopusID": "57217594132",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2,
+      "Radiation": 0.2,
+      "Atomic and Molecular Physics, and Optics": 0.1,
+      "Radiology, Nuclear Medicine and Imaging": 0.1
+    }
+  },
+  {
+    "author_uuid": "5103f4d2-8a7e-4bb1-9926-3cb9d512b83c",
+    "author_name": "Ivanenko I.A.",
+    "ORCID": null,
+    "ScopusID": "6701706481",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2,
+      "Radiation": 0.2,
+      "Atomic and Molecular Physics, and Optics": 0.1,
+      "Radiology, Nuclear Medicine and Imaging": 0.1
+    }
+  },
+  {
+    "author_uuid": "d3545e25-c50c-4650-bee0-c8525a493aa2",
+    "author_name": "Ivanov G.N.",
+    "ORCID": null,
+    "ScopusID": "7201495462",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2,
+      "Radiation": 0.2,
+      "Atomic and Molecular Physics, and Optics": 0.1,
+      "Radiology, Nuclear Medicine and Imaging": 0.1
+    }
+  },
+  {
+    "author_uuid": "10a558fb-76e5-46f9-9195-f181c160b9d1",
+    "author_name": "Kalagin I.V.",
+    "ORCID": null,
+    "ScopusID": "6602645392",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2,
+      "Radiation": 0.2,
+      "Atomic and Molecular Physics, and Optics": 0.1,
+      "Radiology, Nuclear Medicine and Imaging": 0.1
+    }
+  },
+  {
+    "author_uuid": "9ceb2493-c2e0-42dc-83ff-8f3a4c331146",
+    "author_name": "Kazarinov N.Y.",
+    "ORCID": null,
+    "ScopusID": "7004043788",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2,
+      "Radiation": 0.2,
+      "Atomic and Molecular Physics, and Optics": 0.1,
+      "Radiology, Nuclear Medicine and Imaging": 0.1
+    }
+  },
+  {
+    "author_uuid": "71cf3aa4-4e01-480d-a8fa-786e8fdd81fa",
+    "author_name": "Kirilkin N.S.",
+    "ORCID": "https://orcid.org/0000-0003-3782-0515",
+    "ScopusID": "54890670700",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2,
+      "Radiation": 1.0,
+      "Atomic and Molecular Physics, and Optics": 0.1,
+      "Radiology, Nuclear Medicine and Imaging": 0.1,
+      "Instrumentation": 1.0
+    }
+  },
+  {
+    "author_uuid": "45db9495-f9ce-4415-a365-66646ed0bcae",
+    "author_name": "Mitrofanov S.V.",
+    "ORCID": "https://orcid.org/0000-0002-4687-1819",
+    "ScopusID": "6603664532",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5,
+      "Radiation": 0.2,
+      "Atomic and Molecular Physics, and Optics": 0.5,
+      "Radiology, Nuclear Medicine and Imaging": 0.1
+    }
+  },
+  {
+    "author_uuid": "5e2c7626-76fc-4980-8cc9-f5c39f2fcbeb",
+    "author_name": "Osipov N.F.",
+    "ORCID": null,
+    "ScopusID": "55888031200",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2,
+      "Radiation": 0.2,
+      "Atomic and Molecular Physics, and Optics": 0.1,
+      "Radiology, Nuclear Medicine and Imaging": 0.1
+    }
+  },
+  {
+    "author_uuid": "a5c5372f-9861-4676-b623-1f7df50b7155",
+    "author_name": "Semin V.A.",
+    "ORCID": null,
+    "ScopusID": "24322608300",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2,
+      "Radiation": 0.2,
+      "Atomic and Molecular Physics, and Optics": 0.1,
+      "Radiology, Nuclear Medicine and Imaging": 0.1
+    }
+  },
+  {
+    "author_uuid": "0b3831e0-f71b-4357-9d65-c2907cf106bd",
+    "author_name": "Zabanov A.S.",
+    "ORCID": null,
+    "ScopusID": "57700580300",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2,
+      "Radiation": 0.2,
+      "Atomic and Molecular Physics, and Optics": 0.1,
+      "Radiology, Nuclear Medicine and Imaging": 0.1
+    }
+  },
+  {
+    "author_uuid": "35892349-575e-469f-a044-7d56c07b5860",
+    "author_name": "Syresin E.",
+    "ORCID": "https://orcid.org/0000-0001-8710-6606",
+    "ScopusID": "7003961220",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.18181818181818182,
+      "Radiation": 0.18181818181818182,
+      "Atomic and Molecular Physics, and Optics": 0.09090909090909091,
+      "Radiology, Nuclear Medicine and Imaging": 0.09090909090909091,
+      "Physics and Astronomy (miscellaneous)": 0.4
+    }
+  },
+  {
+    "author_uuid": "e1719a23-7c42-4a77-b892-e770864eb172",
+    "author_name": "Filatov G.",
+    "ORCID": null,
+    "ScopusID": "55961412100",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.18181818181818182,
+      "Radiation": 0.18181818181818182,
+      "Atomic and Molecular Physics, and Optics": 0.09090909090909091,
+      "Radiology, Nuclear Medicine and Imaging": 0.09090909090909091
+    }
+  },
+  {
+    "author_uuid": "14aaf028-012a-4e6d-8eed-cf9afa03ef08",
+    "author_name": "Sheremetev A.",
+    "ORCID": null,
+    "ScopusID": "57685896400",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4,
+      "Radiation": 0.4,
+      "Atomic and Molecular Physics, and Optics": 0.2,
+      "Radiology, Nuclear Medicine and Imaging": 0.2
+    }
+  },
+  {
+    "author_uuid": "e3b0ce26-c915-43d4-b171-1575aece2b4e",
+    "author_name": "Kolozhvari A.",
+    "ORCID": null,
+    "ScopusID": "57193321791",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4,
+      "Radiation": 0.4,
+      "Atomic and Molecular Physics, and Optics": 0.2,
+      "Radiology, Nuclear Medicine and Imaging": 0.2
+    }
+  },
+  {
+    "author_uuid": "4af85ec5-9b01-49f9-96bd-611444190950",
+    "author_name": "Dementev D.",
+    "ORCID": null,
+    "ScopusID": "57196478611",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4,
+      "Radiation": 0.4,
+      "Atomic and Molecular Physics, and Optics": 0.2,
+      "Radiology, Nuclear Medicine and Imaging": 0.2
+    }
+  },
+  {
+    "author_uuid": "93534240-0d20-4671-8c16-63f3a99144a3",
+    "author_name": "Shitenkov M.",
+    "ORCID": "https://orcid.org/0009-0009-9003-0097",
+    "ScopusID": "57196480708",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4,
+      "Radiation": 0.4,
+      "Atomic and Molecular Physics, and Optics": 0.2,
+      "Radiology, Nuclear Medicine and Imaging": 0.2
+    }
+  },
+  {
+    "author_uuid": "2c6ac955-65c6-43a4-a6de-bb6cb5e7b6ff",
+    "author_name": "Murin Y.",
+    "ORCID": null,
+    "ScopusID": "6602565851",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4,
+      "Radiation": 0.4,
+      "Atomic and Molecular Physics, and Optics": 0.2,
+      "Radiology, Nuclear Medicine and Imaging": 0.2
+    }
+  },
+  {
+    "author_uuid": "40d74388-9b08-4e71-92e2-40bbfe8b6bfb",
+    "author_name": "Meshkov I.N.",
+    "ORCID": null,
+    "ScopusID": "7005871338",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3333333333333333,
+      "Radiation": 0.3333333333333333,
+      "Atomic and Molecular Physics, and Optics": 0.16666666666666666,
+      "Radiology, Nuclear Medicine and Imaging": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "1685d538-115a-4be6-aef1-97785f58ff0a",
+    "author_name": "Sidorin A.A.",
+    "ORCID": "https://orcid.org/0000-0003-1934-5300",
+    "ScopusID": "7004809215",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3333333333333333,
+      "Radiation": 0.3333333333333333,
+      "Atomic and Molecular Physics, and Optics": 0.16666666666666666,
+      "Radiology, Nuclear Medicine and Imaging": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "a37696b4-bc39-4b58-bf41-e06c896bb749",
+    "author_name": "Orlov O.S.",
+    "ORCID": null,
+    "ScopusID": "56094835900",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3333333333333333,
+      "Radiation": 0.3333333333333333,
+      "Atomic and Molecular Physics, and Optics": 0.16666666666666666,
+      "Radiology, Nuclear Medicine and Imaging": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "9470fc5f-0e7f-4876-ba9c-d69886c422e4",
+    "author_name": "Korobitsina M.Y.",
+    "ORCID": null,
+    "ScopusID": "57286314600",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6666666666666666,
+      "Radiation": 0.6666666666666666,
+      "Atomic and Molecular Physics, and Optics": 0.3333333333333333,
+      "Radiology, Nuclear Medicine and Imaging": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "5df2a22f-f8cd-4626-a81b-303fcba10972",
+    "author_name": "Tuzikov A.V.",
+    "ORCID": null,
+    "ScopusID": "15081747400",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6666666666666666,
+      "Radiation": 0.6666666666666666,
+      "Atomic and Molecular Physics, and Optics": 0.3333333333333333,
+      "Radiology, Nuclear Medicine and Imaging": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "fbfac119-40b8-411d-b9ee-2fd5441bc382",
+    "author_name": "Shandov M.M.",
+    "ORCID": null,
+    "ScopusID": "57200505878",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6666666666666666,
+      "Radiation": 0.6666666666666666,
+      "Atomic and Molecular Physics, and Optics": 0.3333333333333333,
+      "Radiology, Nuclear Medicine and Imaging": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "c4426300-5189-4ee9-9a72-be156d549e1a",
+    "author_name": "Malyshkin Y.M.",
+    "ORCID": "https://orcid.org/0000-0002-8759-7545",
+    "ScopusID": "54409046000",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.08652988403211417
+    }
+  },
+  {
+    "author_uuid": "b9ea5c97-72f4-4b2f-b781-6d30268b8c7d",
+    "author_name": "Smirnov O.Y.",
+    "ORCID": null,
+    "ScopusID": "35577875300",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.05263157894736842
+    }
+  },
+  {
+    "author_uuid": "3af3f23f-b1d2-4a68-b58e-daad0dda972b",
+    "author_name": "Borodin A.N.",
+    "ORCID": "https://orcid.org/0000-0002-0533-7812",
+    "ScopusID": "57194761532",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.013157894736842,
+      "Atomic and Molecular Physics, and Optics": 0.013333333333333334,
+      "Nuclear and High Energy Physics": 0.02666666666666667
+    }
+  },
+  {
+    "author_uuid": "9a31e6f8-8e0c-4770-b012-d5f4e51a3da3",
+    "author_name": "Grebenyuk V.M.",
+    "ORCID": null,
+    "ScopusID": "7005773032",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.5131578947368421,
+      "Atomic and Molecular Physics, and Optics": 0.013333333333333334,
+      "Nuclear and High Energy Physics": 0.02666666666666667
+    }
+  },
+  {
+    "author_uuid": "c91ad88d-bb44-458e-9283-6cb66650f952",
+    "author_name": "Grinyuk A.A.",
+    "ORCID": null,
+    "ScopusID": "35218909200",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.6798245614035088,
+      "Atomic and Molecular Physics, and Optics": 0.013333333333333334,
+      "Nuclear and High Energy Physics": 0.02666666666666667
+    }
+  },
+  {
+    "author_uuid": "72f9f391-996c-430e-b6c9-bd6b9d155f23",
+    "author_name": "Lavrova M.V.",
+    "ORCID": null,
+    "ScopusID": "57190973524",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.263157894736842,
+      "Atomic and Molecular Physics, and Optics": 0.013333333333333334,
+      "Nuclear and High Energy Physics": 0.02666666666666667
+    }
+  },
+  {
+    "author_uuid": "2aca7999-6a0b-411c-a5ac-6d7e70fcc548",
+    "author_name": "Pan A.",
+    "ORCID": "https://orcid.org/0000-0003-0906-998X",
+    "ScopusID": "57205598722",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2131578947368421,
+      "Atomic and Molecular Physics, and Optics": 0.013333333333333334,
+      "Nuclear and High Energy Physics": 0.013333333333333334
+    }
+  },
+  {
+    "author_uuid": "bba672bb-7e89-490e-b3b4-94c846451497",
+    "author_name": "Satyshev I.",
+    "ORCID": "https://orcid.org/0000-0002-9121-8173",
+    "ScopusID": "57211492251",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.17982456140350878,
+      "Atomic and Molecular Physics, and Optics": 0.013333333333333334,
+      "Nuclear and High Energy Physics": 0.013333333333333334
+    }
+  },
+  {
+    "author_uuid": "9469d83b-49d5-41ae-917b-9e5a53ab9fd7",
+    "author_name": "Tkachev L.G.",
+    "ORCID": null,
+    "ScopusID": "57330514600",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.40601503759398494,
+      "Atomic and Molecular Physics, and Optics": 0.013333333333333334,
+      "Nuclear and High Energy Physics": 0.02666666666666667,
+      "Astronomy and Astrophysics": 0.013605442176870748
+    }
+  },
+  {
+    "author_uuid": "69fa6422-7dea-4372-b0b6-bbd9f19e9cb8",
+    "author_name": "Blinov A.V.",
+    "ORCID": null,
+    "ScopusID": "7005215279",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2,
+      "Atomic and Molecular Physics, and Optics": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "7b951e36-e1c0-40a6-9f4e-7650f90a9f7f",
+    "author_name": "Tkachenko A.V.",
+    "ORCID": null,
+    "ScopusID": "17347308100",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2
+    }
+  },
+  {
+    "author_uuid": "26bddc71-d8ae-4ef9-b919-5d8cf33e595f",
+    "author_name": "Allakhverdyan V.A.",
+    "ORCID": null,
+    "ScopusID": "57224968554",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.0169491525423728
+    }
+  },
+  {
+    "author_uuid": "5650d744-fe6c-481c-b656-7e1710dff2b2",
+    "author_name": "Belolaptikov I.A.",
+    "ORCID": null,
+    "ScopusID": "6603897690",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.5169491525423728
+    }
+  },
+  {
+    "author_uuid": "8845b61d-3c6f-48b8-b37a-db556a9156b4",
+    "author_name": "Borina I.V.",
+    "ORCID": null,
+    "ScopusID": "55345180200",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.3502824858757062
+    }
+  },
+  {
+    "author_uuid": "9351b792-e115-489e-a2e3-ef98484d9606",
+    "author_name": "Gorshkov N.S.",
+    "ORCID": null,
+    "ScopusID": "57217107709",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2669491525423729
+    }
+  },
+  {
+    "author_uuid": "ffa0807f-0757-4756-afc6-3b85184b6480",
+    "author_name": "Dik V.Y.",
+    "ORCID": null,
+    "ScopusID": "57218296072",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.2169491525423729
+    }
+  },
+  {
+    "author_uuid": "1eb84b57-09ae-41bc-93fa-746152cfef74",
+    "author_name": "Elzhov T.V.",
+    "ORCID": null,
+    "ScopusID": "57221860313",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.18361581920903955
+    }
+  },
+  {
+    "author_uuid": "9250cf56-a5d7-4dbe-b3c8-8c83e33b5a86",
+    "author_name": "Kolbin M.M.",
+    "ORCID": null,
+    "ScopusID": "57201620263",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.15980629539951574
+    }
+  },
+  {
+    "author_uuid": "7c356039-1be1-4f2f-92c9-5022e805d38f",
+    "author_name": "Konischev K.V.",
+    "ORCID": null,
+    "ScopusID": "6507393073",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.1419491525423729
+    }
+  },
+  {
+    "author_uuid": "b6fa513a-081e-459c-95e9-7c6198b0b187",
+    "author_name": "Korobchenko A.V.",
+    "ORCID": null,
+    "ScopusID": "36138805800",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.128060263653484
+    }
+  },
+  {
+    "author_uuid": "ff76e4a6-06f2-4036-802e-4b49c79ecc88",
+    "author_name": "Kruglov M.V.",
+    "ORCID": null,
+    "ScopusID": "57217101710",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.11694915254237288
+    }
+  },
+  {
+    "author_uuid": "8cf64798-54f5-4db0-9fab-7c92cd3861c5",
+    "author_name": "Nazari V.",
+    "ORCID": null,
+    "ScopusID": "56289855700",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.1002824858757062
+    }
+  },
+  {
+    "author_uuid": "70ca0ae3-da3b-4f3e-a498-00bd2bc2005e",
+    "author_name": "Naumov D.V.",
+    "ORCID": "https://orcid.org/0000-0002-0966-8803",
+    "ScopusID": "56956558200",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.0938722294654498
+    }
+  },
+  {
+    "author_uuid": "bf2440f4-dbc6-4089-ba7c-78d4884c1fdd",
+    "author_name": "Pliskovsky E.N.",
+    "ORCID": null,
+    "ScopusID": "6602517910",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.0883777239709443
+    }
+  },
+  {
+    "author_uuid": "9adc6de7-a62d-4dd9-b95b-c02833ea70f4",
+    "author_name": "Rushay V.D.",
+    "ORCID": null,
+    "ScopusID": "57204692090",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.08361581920903954
+    }
+  },
+  {
+    "author_uuid": "a8c938a3-5560-4ba7-9a79-3ab178894304",
+    "author_name": "Seitova D.",
+    "ORCID": "https://orcid.org/0000-0003-2522-7642",
+    "ScopusID": "57211888337",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.07944915254237288
+    }
+  },
+  {
+    "author_uuid": "d2f76f79-210e-4c62-bc52-1e1ba90ae7aa",
+    "author_name": "Sirenko A.E.",
+    "ORCID": null,
+    "ScopusID": "57224985080",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.07577268195413758
+    }
+  },
+  {
+    "author_uuid": "8fa65caf-7b94-4f4a-9611-52e721bb9b0d",
+    "author_name": "Solovjev A.G.",
+    "ORCID": null,
+    "ScopusID": "57204694039",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.07250470809792843
+    }
+  },
+  {
+    "author_uuid": "bf44ea3c-9ff2-422a-ba51-e356e479fc48",
+    "author_name": "Sorokovikov M.N.",
+    "ORCID": "https://orcid.org/0000-0002-4449-4925",
+    "ScopusID": "57196453807",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.0695807314897413
+    }
+  },
+  {
+    "author_uuid": "6b645655-b17c-4020-b622-e8bf8f6b3b09",
+    "author_name": "Khramov E.V.",
+    "ORCID": null,
+    "ScopusID": "57220526956",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.06694915254237288
+    }
+  },
+  {
+    "author_uuid": "fed04483-223a-420c-92e7-1a002f05a675",
+    "author_name": "Shaybonov B.A.",
+    "ORCID": null,
+    "ScopusID": "54924632900",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.0645682001614205
+    }
+  },
+  {
+    "author_uuid": "111bab8a-af6f-4777-b9ad-7647f42f7666",
+    "author_name": "Yablokova Y.V.",
+    "ORCID": null,
+    "ScopusID": "57221107239",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.062403697996918334
+    }
+  },
+  {
+    "author_uuid": "07964734-e335-4684-a8d3-ee9453703fa1",
+    "author_name": "Filippov Y.P.",
+    "ORCID": null,
+    "ScopusID": "7006252499",
+    "Categories": {
+      "Instrumentation": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "113b3e9e-1e28-49dc-8d23-8cce064ac8b0",
+    "author_name": "Kovrizhnykh A.M.",
+    "ORCID": null,
+    "ScopusID": "36913736700",
+    "Categories": {
+      "Instrumentation": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "cd7767f0-b1d4-4cc8-9efc-ef413491a796",
+    "author_name": "Rutkauskas A.V.",
+    "ORCID": null,
+    "ScopusID": "56439737200",
+    "Categories": {
+      "Chemistry (miscellaneous)": 2.0,
+      "Inorganic Chemistry": 0.26666666666666666,
+      "Physical and Theoretical Chemistry": 0.26666666666666666,
+      "Materials Chemistry": 2.0
+    }
+  },
+  {
+    "author_uuid": "dd2423a5-91e7-4313-b214-b73d4aee334f",
+    "author_name": "Kichanov S.E.",
+    "ORCID": null,
+    "ScopusID": "7801632882",
+    "Categories": {
+      "Chemistry (miscellaneous)": 0.26666666666666666,
+      "Inorganic Chemistry": 0.26666666666666666,
+      "Physical and Theoretical Chemistry": 0.26666666666666666
+    }
+  },
+  {
+    "author_uuid": "0c2e62a8-a758-4308-8f9b-dc6df53c1ee2",
+    "author_name": "Zel I.Y.",
+    "ORCID": "https://orcid.org/0000-0003-0424-7142",
+    "ScopusID": "56769948400",
+    "Categories": {
+      "Chemistry (miscellaneous)": 0.26666666666666666,
+      "Inorganic Chemistry": 0.26666666666666666,
+      "Physical and Theoretical Chemistry": 0.26666666666666666
+    }
+  },
+  {
+    "author_uuid": "3f4ae587-66dc-4ba8-b75d-60ce60793282",
+    "author_name": "Kozlenko D.P.",
+    "ORCID": null,
+    "ScopusID": "7004712508",
+    "Categories": {
+      "Chemistry (miscellaneous)": 0.26666666666666666,
+      "Inorganic Chemistry": 0.26666666666666666,
+      "Physical and Theoretical Chemistry": 0.26666666666666666
+    }
+  },
+  {
+    "author_uuid": "56c6e109-4595-4d06-a5de-7c227679476a",
+    "author_name": "Zhaketov V.D.",
+    "ORCID": null,
+    "ScopusID": "56925414200",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.16666666666666666,
+      "Surfaces, Coatings and Films": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "7c570249-a2ae-4417-9486-27aaf04a173e",
+    "author_name": "Nikitenko Y.V.",
+    "ORCID": null,
+    "ScopusID": "7003947692",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.16666666666666666,
+      "Surfaces, Coatings and Films": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "1304c9d9-2e4c-4630-b713-2956f15d2669",
+    "author_name": "Kropachev G.N.",
+    "ORCID": null,
+    "ScopusID": "12808520300",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 1.0,
+      "Surfaces, Coatings and Films": 2.0
+    }
+  },
+  {
+    "author_uuid": "69c66f2f-e5e5-434c-b554-9307ad0b36ba",
+    "author_name": "Avdeev M.V.",
+    "ORCID": "https://orcid.org/0000-0003-0721-4653",
+    "ScopusID": "35333746600",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.16666666666666666,
+      "Surfaces, Coatings and Films": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "00bb37b7-4168-401a-80f2-3a8f32880f22",
+    "author_name": "Yerdauletov M.S.",
+    "ORCID": "https://orcid.org/0000-0002-9931-9454",
+    "ScopusID": "57195547920",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.16666666666666666,
+      "Surfaces, Coatings and Films": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "6be86e6e-f2e6-4cda-b4e8-f138beea771a",
+    "author_name": "Tropin T.V.",
+    "ORCID": "https://orcid.org/0000-0003-3605-1937",
+    "ScopusID": "8557639100",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.16666666666666666,
+      "Surfaces, Coatings and Films": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "859d9a5d-9a54-4071-802c-542ff9611148",
+    "author_name": "Petrova M.O.",
+    "ORCID": null,
+    "ScopusID": "57735939600",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.1111111111111111,
+      "Surfaces, Coatings and Films": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "7483287b-03f5-4e3c-9d6f-3f2fdd5b3274",
+    "author_name": "Bogdzel’ A.A.",
+    "ORCID": null,
+    "ScopusID": "6602334752",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.1111111111111111,
+      "Surfaces, Coatings and Films": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "ab385526-1cce-4157-822d-8449f833021a",
+    "author_name": "Bodnarchuk V.I.",
+    "ORCID": null,
+    "ScopusID": "6601982662",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.1111111111111111,
+      "Surfaces, Coatings and Films": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "d160b45e-0e26-4d2f-8d7d-016c1a446927",
+    "author_name": "Daulbaev O.",
+    "ORCID": null,
+    "ScopusID": "57904624900",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.1111111111111111,
+      "Surfaces, Coatings and Films": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "070b4ffa-8c66-434e-8275-82fd6d587d69",
+    "author_name": "Milkov V.M.",
+    "ORCID": null,
+    "ScopusID": "55361475600",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.1111111111111111,
+      "Surfaces, Coatings and Films": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "8f9c89aa-bb5e-48bd-9f89-9177a2c9ba4c",
+    "author_name": "Kurilkin A.K.",
+    "ORCID": null,
+    "ScopusID": "24281713800",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.1111111111111111,
+      "Surfaces, Coatings and Films": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "66cdf2c6-cd2e-44bf-874a-412e857f3ba0",
+    "author_name": "Bulatov K.V.",
+    "ORCID": null,
+    "ScopusID": "57191030860",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.1111111111111111,
+      "Surfaces, Coatings and Films": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "b2d7ad72-e467-4069-a88c-89e04a9bf631",
+    "author_name": "Dmitriev A.V.",
+    "ORCID": "https://orcid.org/0000-0001-7853-0173",
+    "ScopusID": "57192720758",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.1111111111111111,
+      "Surfaces, Coatings and Films": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "cfe17cce-13a5-4719-998d-636203270cca",
+    "author_name": "Babkin V.A.",
+    "ORCID": "https://orcid.org/0000-0001-5378-4919",
+    "ScopusID": "36084167600",
+    "Categories": {
+      "Nanoscience and Nanotechnology": 0.1111111111111111,
+      "Surfaces, Coatings and Films": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "37431f19-8f82-4f47-a98a-d3a57707ba68",
+    "author_name": "Finger M.",
+    "ORCID": null,
+    "ScopusID": "55708019600",
+    "Categories": {
+      "Engineering (miscellaneous)": 4.0,
+      "Physics and Astronomy (miscellaneous)": 4.0,
+      "Nuclear and High Energy Physics": 0.002514668901927913
+    }
+  },
+  {
+    "author_uuid": "401a19be-9649-4378-8488-3c7e998379f2",
+    "author_name": "Finger M., Jr.",
+    "ORCID": null,
+    "ScopusID": "58333916500",
+    "Categories": {
+      "Engineering (miscellaneous)": 2.0,
+      "Physics and Astronomy (miscellaneous)": 2.0,
+      "Nuclear and High Energy Physics": 0.002514668901927913
+    }
+  },
+  {
+    "author_uuid": "1af61f78-f605-43b9-a849-dce187106d54",
+    "author_name": "Tsamalaidze Z.",
+    "ORCID": null,
+    "ScopusID": "57217468370",
+    "Categories": {
+      "Engineering (miscellaneous)": 1.3333333333333333,
+      "Physics and Astronomy (miscellaneous)": 1.3333333333333333,
+      "Nuclear and High Energy Physics": 0.002514668901927913
+    }
+  },
+  {
+    "author_uuid": "eb120088-8775-4860-b6dd-137c6b3aa5d1",
+    "author_name": "Bokuchava G.",
+    "ORCID": "https://orcid.org/0000-0001-5097-3335",
+    "ScopusID": "6603468078",
+    "Categories": {
+      "Biochemistry, Genetics and Molecular Biology (miscellaneous)": 0.8,
+      "Civil and Structural Engineering": 3.0,
+      "Computational Mechanics": 3.0,
+      "Mechanical Engineering": 3.0
+    }
+  },
+  {
+    "author_uuid": "fc6cb237-e2fb-4c75-a551-7e6431e94f4b",
+    "author_name": "Dolgov A.",
+    "ORCID": null,
+    "ScopusID": "7102036810",
+    "Categories": {
+      "Astronomy and Astrophysics": 0.6000000000000001,
+      "Atomic and Molecular Physics, and Optics": 1.0,
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "01c150a0-f7dd-4d67-acce-2a57075c94af",
+    "author_name": "Bakina O.",
+    "ORCID": null,
+    "ScopusID": "57191579181",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.006430868167202572,
+      "Physics and Astronomy (miscellaneous)": 0.012861736334405145
+    }
+  },
+  {
+    "author_uuid": "f4833d3f-3f60-4556-bd9e-d3d34428a23d",
+    "author_name": "Boyko I.",
+    "ORCID": null,
+    "ScopusID": "56760495800",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.006430868167202572,
+      "Physics and Astronomy (miscellaneous)": 0.012861736334405145
+    }
+  },
+  {
+    "author_uuid": "af1fd1cc-3876-46fd-912a-9972ce2ff1e1",
+    "author_name": "Chelkov G.",
+    "ORCID": null,
+    "ScopusID": "57202594568",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.006430868167202572,
+      "Physics and Astronomy (miscellaneous)": 0.012861736334405145
+    }
+  },
+  {
+    "author_uuid": "984fc858-a90a-4463-911f-94ce31d1e816",
+    "author_name": "Dedovich D.",
+    "ORCID": null,
+    "ScopusID": "8105593300",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.006430868167202572,
+      "Physics and Astronomy (miscellaneous)": 0.012861736334405145
+    }
+  },
+  {
+    "author_uuid": "fb50f8c1-4548-4588-8012-23e7564578b8",
+    "author_name": "Denysenko I.",
+    "ORCID": null,
+    "ScopusID": "55352707400",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.006430868167202572,
+      "Physics and Astronomy (miscellaneous)": 0.012861736334405145
+    }
+  },
+  {
+    "author_uuid": "25534d5d-12fc-47db-ab24-0261c866325a",
+    "author_name": "Egorov P.",
+    "ORCID": null,
+    "ScopusID": "57247581600",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.006430868167202572,
+      "Physics and Astronomy (miscellaneous)": 0.012861736334405145
+    }
+  },
+  {
+    "author_uuid": "043a1780-e210-4b16-90c2-3b824dc9dc94",
+    "author_name": "Guskov A.",
+    "ORCID": null,
+    "ScopusID": "15832074100",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.006430868167202572,
+      "Physics and Astronomy (miscellaneous)": 0.012861736334405145
+    }
+  },
+  {
+    "author_uuid": "27c660ea-6d0b-4908-93dd-5d9e5534d95e",
+    "author_name": "Nefedov Y.",
+    "ORCID": null,
+    "ScopusID": "7003932686",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.006968641114982578,
+      "Physics and Astronomy (miscellaneous)": 0.013937282229965157
+    }
+  },
+  {
+    "author_uuid": "519c2cd5-ce59-4752-9ce5-0204e972fd07",
+    "author_name": "Zinicovscaia I.",
+    "ORCID": "https://orcid.org/0000-0003-0820-887X",
+    "ScopusID": "56764679700",
+    "Categories": {
+      "Microbiology": 0.5,
+      "Microbiology (medical)": 0.5,
+      "Virology": 0.5
+    }
+  },
+  {
+    "author_uuid": "69481fd7-953d-4570-a155-d707132e6647",
+    "author_name": "Yushin N.",
+    "ORCID": "https://orcid.org/0000-0001-5650-4337",
+    "ScopusID": "57188665308",
+    "Categories": {
+      "Microbiology": 0.5,
+      "Microbiology (medical)": 0.5,
+      "Virology": 0.5
+    }
+  },
+  {
+    "author_uuid": "e4402cc2-ac38-424d-b286-ca9e0c9dd204",
+    "author_name": "Grozdov D.",
+    "ORCID": "https://orcid.org/0000-0002-0297-324X",
+    "ScopusID": "25723199300",
+    "Categories": {
+      "Microbiology": 0.5,
+      "Microbiology (medical)": 0.5,
+      "Virology": 0.5
+    }
+  },
+  {
+    "author_uuid": "7b657c83-ca1f-4a4b-a51d-824087dd5af9",
+    "author_name": "Peshkova A.",
+    "ORCID": null,
+    "ScopusID": "57322653600",
+    "Categories": {
+      "Microbiology": 0.5,
+      "Microbiology (medical)": 0.5,
+      "Virology": 0.5
+    }
+  },
+  {
+    "author_uuid": "d14e2b8e-dcad-43ec-9b4f-789f257d6fb2",
+    "author_name": "Vergel K.",
+    "ORCID": "https://orcid.org/0000-0001-8158-5589",
+    "ScopusID": "35218593000",
+    "Categories": {
+      "Microbiology": 0.5,
+      "Microbiology (medical)": 0.5,
+      "Virology": 0.5
+    }
+  },
+  {
+    "author_uuid": "a3b3f28e-5dea-4847-a160-89a2aa7860bd",
+    "author_name": "Bednyakov A.",
+    "ORCID": null,
+    "ScopusID": "15841658200",
+    "Categories": {
+      "Chemistry (miscellaneous)": 1.5,
+      "Computer Science (miscellaneous)": 1.5,
+      "Mathematics (miscellaneous)": 1.5,
+      "Physics and Astronomy (miscellaneous)": 1.5
+    }
+  },
+  {
+    "author_uuid": "e9688004-afe1-472e-93e7-c4f022efdfa4",
+    "author_name": "Mukhaeva A.",
+    "ORCID": null,
+    "ScopusID": "57215494150",
+    "Categories": {
+      "Chemistry (miscellaneous)": 1.5,
+      "Computer Science (miscellaneous)": 1.5,
+      "Mathematics (miscellaneous)": 1.5,
+      "Physics and Astronomy (miscellaneous)": 1.5
+    }
+  },
+  {
+    "author_uuid": "2e07e5d9-e8fa-4718-a55f-26f5c6fb9bcb",
+    "author_name": "Pakhnevich A.",
+    "ORCID": null,
+    "ScopusID": "6508023613",
+    "Categories": {
+      "Geology": 1.0,
+      "Geotechnical Engineering and Engineering Geology": 1.0
+    }
+  },
+  {
+    "author_uuid": "53edb572-2879-4fec-9314-66a4286f1d34",
+    "author_name": "Nikolayev D.",
+    "ORCID": null,
+    "ScopusID": "6603560569",
+    "Categories": {
+      "Geology": 1.0,
+      "Geotechnical Engineering and Engineering Geology": 1.0
+    }
+  },
+  {
+    "author_uuid": "a9dd9213-7806-4ca6-aa0f-482985d4fc9a",
+    "author_name": "Lychagina T.",
+    "ORCID": "https://orcid.org/0000-0002-9047-2399",
+    "ScopusID": "6505948465",
+    "Categories": {
+      "Geology": 1.0,
+      "Geotechnical Engineering and Engineering Geology": 1.0
+    }
+  },
+  {
+    "author_uuid": "3a2475cc-209e-4ff9-945f-473269c1ab27",
+    "author_name": "Buša J.",
+    "ORCID": null,
+    "ScopusID": "57207660896",
+    "Categories": {
+      "Chemistry (miscellaneous)": 1.0,
+      "Computer Science (miscellaneous)": 1.0,
+      "Mathematics (miscellaneous)": 1.0,
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "3159ef3e-e7f4-49c0-95f9-cee8f3a51053",
+    "author_name": "Nazmitdinov R.",
+    "ORCID": "https://orcid.org/0000-0003-0489-7858",
+    "ScopusID": "7004352313",
+    "Categories": {
+      "Chemistry (miscellaneous)": 1.0,
+      "Computer Science (miscellaneous)": 1.0,
+      "Mathematics (miscellaneous)": 1.0,
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "b0a6c7aa-2016-48e7-8c54-fd69704967d3",
+    "author_name": "Antonov N.V.",
+    "ORCID": "https://orcid.org/0000-0001-7255-2320",
+    "ScopusID": "7005256449",
+    "Categories": {
+      "Chemistry (miscellaneous)": 0.6000000000000001,
+      "Computer Science (miscellaneous)": 0.6000000000000001,
+      "Mathematics (miscellaneous)": 0.6000000000000001,
+      "Physics and Astronomy (miscellaneous)": 8.0,
+      "Mathematical Physics": 3.0,
+      "Modeling and Simulation": 3.0,
+      "Statistical and Nonlinear Physics": 3.0,
+      "Statistics and Probability": 3.0
+    }
+  },
+  {
+    "author_uuid": "5778e1f8-33b0-41d7-8200-23ed6dfbdd96",
+    "author_name": "Lebedev N.M.",
+    "ORCID": null,
+    "ScopusID": "55875959500",
+    "Categories": {
+      "Chemistry (miscellaneous)": 0.6000000000000001,
+      "Computer Science (miscellaneous)": 0.6000000000000001,
+      "Mathematics (miscellaneous)": 0.6000000000000001,
+      "Physics and Astronomy (miscellaneous)": 4.0,
+      "Mathematical Physics": 1.5,
+      "Modeling and Simulation": 1.5,
+      "Statistical and Nonlinear Physics": 1.5,
+      "Statistics and Probability": 1.5
+    }
+  },
+  {
+    "author_uuid": "08dd1fd9-df0e-4a50-9cbd-e8f9b2455fe4",
+    "author_name": "Perepelkin E.E.",
+    "ORCID": "https://orcid.org/0000-0001-5505-4055",
+    "ScopusID": "15080893600",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.75
+    }
+  },
+  {
+    "author_uuid": "7f89ae02-3af8-4285-a53a-b4730c9ad2ab",
+    "author_name": "Ivanov M.A.",
+    "ORCID": "https://orcid.org/0000-0003-1952-9396",
+    "ScopusID": "55384133100",
+    "Categories": {
+      "Chemistry (miscellaneous)": 0.75,
+      "Computer Science (miscellaneous)": 0.75,
+      "Mathematics (miscellaneous)": 0.75,
+      "Physics and Astronomy (miscellaneous)": 0.75
+    }
+  },
+  {
+    "author_uuid": "4349522d-f9f7-4903-b3f6-0aceb5616021",
+    "author_name": "Kuklin A.I.",
+    "ORCID": "https://orcid.org/0000-0002-4530-2980",
+    "ScopusID": "7003946610",
+    "Categories": {
+      "Chemical Engineering (miscellaneous)": 0.3333333333333333,
+      "Filtration and Separation": 0.2222222222222222,
+      "Process Chemistry and Technology": 0.2222222222222222,
+      "Biophysics": 0.09090909090909091
+    }
+  },
+  {
+    "author_uuid": "ebf113e3-c80f-48fc-8582-3681c8536fcd",
+    "author_name": "Agakishiev G.",
+    "ORCID": null,
+    "ScopusID": "15847974000",
+    "Categories": {
+      "Nuclear and High Energy Physics": 4.011204481792717
+    }
+  },
+  {
+    "author_uuid": "828a5cfe-7211-4d1f-a883-7f943c68eff1",
+    "author_name": "Aitbaev A.",
+    "ORCID": null,
+    "ScopusID": "57362563100",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.011204481792717
+    }
+  },
+  {
+    "author_uuid": "74dbbe67-e7a2-4ff9-ae2c-b6c3e8a40ec4",
+    "author_name": "Aparin A.",
+    "ORCID": "https://orcid.org/0000-0002-2421-7517",
+    "ScopusID": "55646156200",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.3445378151260503
+    }
+  },
+  {
+    "author_uuid": "4053fc15-2dbd-4879-9a33-d2461414c3c3",
+    "author_name": "Dedovich T.G.",
+    "ORCID": null,
+    "ScopusID": "35227141700",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.8112044817927171
+    }
+  },
+  {
+    "author_uuid": "07fda8a3-47f2-44e5-9919-164d8583ea62",
+    "author_name": "Kechechyan A.",
+    "ORCID": null,
+    "ScopusID": "12752217800",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6778711484593837
+    }
+  },
+  {
+    "author_uuid": "057ea1b0-fed6-4bb0-a2ad-296409b60441",
+    "author_name": "Korobitsin A.A.",
+    "ORCID": null,
+    "ScopusID": "57194620223",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5826330532212884
+    }
+  },
+  {
+    "author_uuid": "82852512-8db8-45ac-86f8-bd6179f04b39",
+    "author_name": "Lednicky R.",
+    "ORCID": null,
+    "ScopusID": "57198001693",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.511204481792717
+    }
+  },
+  {
+    "author_uuid": "20b4cb86-f07f-4d17-bf7f-e7dfe023196e",
+    "author_name": "Luong V.B.",
+    "ORCID": "https://orcid.org/0000-0001-8701-260X",
+    "ScopusID": "57221312912",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4556489262371615
+    }
+  },
+  {
+    "author_uuid": "a3da8e4f-c5a8-457c-a9bb-a366f0b5df00",
+    "author_name": "Mudrokh A.",
+    "ORCID": null,
+    "ScopusID": "57193750604",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4112044817927171
+    }
+  },
+  {
+    "author_uuid": "b9718502-4c4f-4163-b4d6-b573b9a9dea3",
+    "author_name": "Rogachevsky O.V.",
+    "ORCID": null,
+    "ScopusID": "57219631895",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3445378151260504
+    }
+  },
+  {
+    "author_uuid": "09320b4c-ae28-4b7e-97d7-ad9b1df54c76",
+    "author_name": "Vokal S.",
+    "ORCID": null,
+    "ScopusID": "6602850607",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.27787114845938377
+    }
+  },
+  {
+    "author_uuid": "cfe3ff73-83a4-4923-b9fe-450c40751e1a",
+    "author_name": "Sorin A.S.",
+    "ORCID": "https://orcid.org/0000-0002-9775-2115",
+    "ScopusID": "7003371930",
+    "Categories": {
+      "Mathematical Physics": 0.6666666666666666,
+      "Statistical and Nonlinear Physics": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "d56a311f-7ca2-475e-9ffb-1cdc8a1620e2",
+    "author_name": "Vlasov A.V.",
+    "ORCID": null,
+    "ScopusID": "58586459600",
+    "Categories": {
+      "Biophysics": 0.07142857142857142
+    }
+  },
+  {
+    "author_uuid": "145242cc-ed3f-4ab8-a6a2-4cdb9050942b",
+    "author_name": "Ryzhykau Y.L.",
+    "ORCID": "https://orcid.org/0000-0003-3719-1464",
+    "ScopusID": "57041251900",
+    "Categories": {
+      "Biophysics": 0.07142857142857142
+    }
+  },
+  {
+    "author_uuid": "c24ad877-0c91-4312-abeb-9e277d97db51",
+    "author_name": "Kurakin S.A.",
+    "ORCID": "https://orcid.org/0000-0001-6287-3323",
+    "ScopusID": "57207654730",
+    "Categories": {
+      "Biophysics": 0.07142857142857142
+    }
+  },
+  {
+    "author_uuid": "bd5abc35-2df9-42f4-a6e3-4a7d336a0ea1",
+    "author_name": "Murugova T.N.",
+    "ORCID": "https://orcid.org/0000-0001-9551-5450",
+    "ScopusID": "16402703600",
+    "Categories": {
+      "Biophysics": 0.07142857142857142
+    }
+  },
+  {
+    "author_uuid": "e5e271c7-6ba5-4889-998d-60b688a830c3",
+    "author_name": "Ivankov A.I.",
+    "ORCID": null,
+    "ScopusID": "58554683300",
+    "Categories": {
+      "Biophysics": 0.07142857142857142
+    }
+  },
+  {
+    "author_uuid": "7595fab2-2c7b-43c9-acf6-33533955dad8",
+    "author_name": "Skoy V.V.",
+    "ORCID": null,
+    "ScopusID": "6603756948",
+    "Categories": {
+      "Biophysics": 0.07142857142857142
+    }
+  },
+  {
+    "author_uuid": "eea32b87-f2d4-458d-98ca-fc6ad1f25511",
+    "author_name": "Rogachev A.V.",
+    "ORCID": "https://orcid.org/0000-0003-2872-7976",
+    "ScopusID": "36053587600",
+    "Categories": {
+      "Biophysics": 0.07142857142857142
+    }
+  },
+  {
+    "author_uuid": "77854f17-297a-49e1-ba06-de030a8a240d",
+    "author_name": "Islamov A.K.",
+    "ORCID": null,
+    "ScopusID": "35582218200",
+    "Categories": {
+      "Biophysics": 0.07142857142857142
+    }
+  },
+  {
+    "author_uuid": "fa315463-8761-41c4-b483-8f58350e5595",
+    "author_name": "Kucherka N.",
+    "ORCID": null,
+    "ScopusID": "58555373700",
+    "Categories": {
+      "Biophysics": 0.07142857142857142
+    }
+  },
+  {
+    "author_uuid": "3b5101e1-fe7c-4f7f-a139-2b4ac28f8b73",
+    "author_name": "Gordeliy V.I.",
+    "ORCID": null,
+    "ScopusID": "7003606807",
+    "Categories": {
+      "Biophysics": 0.07142857142857142
+    }
+  },
+  {
+    "author_uuid": "87f88734-a4e3-4bf1-8e8b-50e5f60f4490",
+    "author_name": "Pogodin S.",
+    "ORCID": null,
+    "ScopusID": "57222378152",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3403019744483159,
+      "Physics and Astronomy (miscellaneous)": 0.006968641114982578
+    }
+  },
+  {
+    "author_uuid": "959bc791-e396-46c8-876a-0eef5fb3e586",
+    "author_name": "Slavkova Z.",
+    "ORCID": "https://orcid.org/0000-0002-8531-9840",
+    "ScopusID": "57201474703",
+    "Categories": {
+      "Analytical Chemistry": 1.0,
+      "Atomic and Molecular Physics, and Optics": 1.0,
+      "Instrumentation": 1.0,
+      "Spectroscopy": 1.0
+    }
+  },
+  {
+    "author_uuid": "ba6f3406-d90d-4977-9da6-6b7c9ef2af48",
+    "author_name": "Matsko N.L.",
+    "ORCID": "https://orcid.org/0000-0002-9932-8510",
+    "ScopusID": "26534757900",
+    "Categories": {
+      "Condensed Matter Physics": 4.0,
+      "Electronic, Optical and Magnetic Materials": 4.0
+    }
+  },
+  {
+    "author_uuid": "fce8e5fd-cecc-45bf-907a-3d287fa7936e",
+    "author_name": "Khvedelidze A.",
+    "ORCID": "https://orcid.org/0000-0002-5953-0140",
+    "ScopusID": "6701848328",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "b36e4a79-2289-4d31-a658-6e6e2cc0e1f3",
+    "author_name": "Mirzayeva D.M.",
+    "ORCID": null,
+    "ScopusID": "57214220304",
+    "Categories": {
+      "Condensed Matter Physics": 0.125,
+      "Statistical and Nonlinear Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "60af977f-07a7-478a-b5f1-c1ed7b379b8f",
+    "author_name": "Kaplina S.P.",
+    "ORCID": null,
+    "ScopusID": "57742943900",
+    "Categories": {
+      "Condensed Matter Physics": 0.125,
+      "Statistical and Nonlinear Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "f7d0b567-5022-43cd-8f16-e6c1007302d9",
+    "author_name": "Kamanina I.Z.",
+    "ORCID": null,
+    "ScopusID": "57201633618",
+    "Categories": {
+      "Condensed Matter Physics": 0.125,
+      "Statistical and Nonlinear Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "fd4939bf-e9a5-4aec-931b-081d4da2aa5f",
+    "author_name": "Asadov A.G.",
+    "ORCID": null,
+    "ScopusID": "57867078000",
+    "Categories": {
+      "Condensed Matter Physics": 0.125,
+      "Statistical and Nonlinear Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "1e939471-c577-46eb-ab8d-5bd219abc8b6",
+    "author_name": "Doroshkevich A.S.",
+    "ORCID": null,
+    "ScopusID": "58586539400",
+    "Categories": {
+      "Condensed Matter Physics": 0.125,
+      "Statistical and Nonlinear Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "3fe85bb3-e4cb-43bd-be36-e8226ce2a0da",
+    "author_name": "Popov E.",
+    "ORCID": "https://orcid.org/0000-0001-8104-7959",
+    "ScopusID": "57206166347",
+    "Categories": {
+      "Condensed Matter Physics": 0.125,
+      "Statistical and Nonlinear Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "83e1a013-ba9c-4800-aa4f-e49b7afbaad1",
+    "author_name": "Pakuliak S.Z.",
+    "ORCID": null,
+    "ScopusID": "6604021757",
+    "Categories": {
+      "Mathematical Physics": 1.0,
+      "Statistical and Nonlinear Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "5f3f4c6a-ffbb-4d71-bc60-afa4773d002e",
+    "author_name": "Teterev Y.G.",
+    "ORCID": "https://orcid.org/0000-0001-7924-2528",
+    "ScopusID": "56047671700",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.125,
+      "Nuclear and High Energy Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "d0b37d26-4345-4f97-92ec-8262f8743abf",
+    "author_name": "Issatov A.",
+    "ORCID": "https://orcid.org/0000-0002-4192-8732",
+    "ScopusID": "57212565278",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.125,
+      "Nuclear and High Energy Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "83c831aa-3fd7-4108-a0e8-4adf62728b7a",
+    "author_name": "Timoshenko K.D.",
+    "ORCID": null,
+    "ScopusID": "58150532700",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.125,
+      "Nuclear and High Energy Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "0edd825a-4d21-42eb-8c92-dfb25fbc4cdd",
+    "author_name": "Alexeev S.I.",
+    "ORCID": null,
+    "ScopusID": "58504094300",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.125,
+      "Nuclear and High Energy Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "a614d039-6401-4d6a-ab9f-aeb879942451",
+    "author_name": "Vershinina T.N.",
+    "ORCID": "https://orcid.org/0000-0002-7748-5443",
+    "ScopusID": "24077637200",
+    "Categories": {
+      "Chemical Engineering (miscellaneous)": 0.2857142857142857,
+      "Chemistry (miscellaneous)": 0.21428571428571427
+    }
+  },
+  {
+    "author_uuid": "be63268e-78d7-4765-85b3-d51540a384d3",
+    "author_name": "Gurov Y.B.",
+    "ORCID": "https://orcid.org/0000-0002-8695-4555",
+    "ScopusID": "6701556014",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 1.0,
+      "Nuclear and High Energy Physics": 2.0,
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "c4cbff94-ba7c-419b-a8fc-e3ce6568cd3b",
+    "author_name": "Kurkova N.Y.",
+    "ORCID": "https://orcid.org/0000-0003-1147-7229",
+    "ScopusID": "57221315922",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "8475e984-0be7-4943-b784-396ccbee201d",
+    "author_name": "Karpov A.V.",
+    "ORCID": "https://orcid.org/0000-0001-8352-0893",
+    "ScopusID": "57191580514",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "c79ac781-3971-4015-b458-ca3594031443",
+    "author_name": "Mikhailova T.I.",
+    "ORCID": null,
+    "ScopusID": "7007046617",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.16666666666666666,
+      "Nuclear and High Energy Physics": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "d54dc986-4ab5-48e6-bf06-54d63b632d5d",
+    "author_name": "Erdemchimeg B.",
+    "ORCID": null,
+    "ScopusID": "26027830100",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.16666666666666666,
+      "Nuclear and High Energy Physics": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "474eb067-3ad9-49aa-873e-06913d0c99ab",
+    "author_name": "Klygin S.A.",
+    "ORCID": null,
+    "ScopusID": "14034282000",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.16666666666666666,
+      "Nuclear and High Energy Physics": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "451bfd5c-1e09-4722-87c3-56712407e13e",
+    "author_name": "Kononenko G.A.",
+    "ORCID": null,
+    "ScopusID": "7005125718",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.16666666666666666,
+      "Nuclear and High Energy Physics": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "d8d21a40-f770-4b63-8f62-cdffbf4c7aa9",
+    "author_name": "Sereda Y.M.",
+    "ORCID": null,
+    "ScopusID": "6603400202",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.16666666666666666,
+      "Nuclear and High Energy Physics": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "6fa2cf05-ab28-4f25-97fb-a5174a6f9437",
+    "author_name": "Vorontsov A.N.",
+    "ORCID": null,
+    "ScopusID": "26028223100",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.16666666666666666,
+      "Nuclear and High Energy Physics": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "f945d572-89dc-482f-925c-83d01cc864a7",
+    "author_name": "Pyatkov Y.V.",
+    "ORCID": null,
+    "ScopusID": "6603815648",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "083c7e93-0c8b-4e66-a026-325956b0155e",
+    "author_name": "Kamanin D.V.",
+    "ORCID": null,
+    "ScopusID": "6603185659",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "e3c9a714-7694-4261-bfcc-ebe467423982",
+    "author_name": "Strekalovsky A.O.",
+    "ORCID": null,
+    "ScopusID": "56453120200",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "5cc98230-638d-4911-b2f0-0e52cb03200e",
+    "author_name": "Goryainova Z.I.",
+    "ORCID": null,
+    "ScopusID": "55599083600",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "cbb3f257-d9af-4180-b7a1-86a52b8298e3",
+    "author_name": "Kuznetsova E.A.",
+    "ORCID": null,
+    "ScopusID": "57102780800",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "e1f2c644-a234-4cac-bf06-62b0fe42b2e2",
+    "author_name": "Solodov A.N.",
+    "ORCID": null,
+    "ScopusID": "58147251300",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "1fc2765e-1095-48f4-b5c3-6a0fb5e5ad5a",
+    "author_name": "Strekalovsky O.V.",
+    "ORCID": null,
+    "ScopusID": "6506448562",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "5603602b-f401-41ce-b421-a08f0511b025",
+    "author_name": "Zhuchko V.E.",
+    "ORCID": null,
+    "ScopusID": "6602792352",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "f4409ebb-fdad-4c27-afb5-710ce3cca8c9",
+    "author_name": "Zhukova A.O.",
+    "ORCID": null,
+    "ScopusID": "58561192100",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.1111111111111111,
+      "Nuclear and High Energy Physics": 0.1111111111111111
+    }
+  },
+  {
+    "author_uuid": "542aeda3-5bde-4243-ba62-9e03f5960c02",
+    "author_name": "Arsenyev N.N.",
+    "ORCID": "https://orcid.org/0000-0003-0601-0800",
+    "ScopusID": "36023558400",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "ba35b7d5-2d48-4f76-9083-abce4001c621",
+    "author_name": "Severyukhin A.P.",
+    "ORCID": "https://orcid.org/0000-0002-1546-0021",
+    "ScopusID": "6603020727",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "0ce1c5e6-46a1-4680-b6cf-a3bc0235dc38",
+    "author_name": "Sandukovsky V.G.",
+    "ORCID": null,
+    "ScopusID": "6602536139",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.2,
+      "Nuclear and High Energy Physics": 0.2,
+      "Physics and Astronomy (miscellaneous)": 0.25
+    }
+  },
+  {
+    "author_uuid": "30c22cc6-b7f9-4ef8-ba25-8f6292546930",
+    "author_name": "Volchugov P.",
+    "ORCID": "https://orcid.org/0000-0003-1375-8120",
+    "ScopusID": "57209802133",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.125,
+      "Nuclear and High Energy Physics": 0.125
+    }
+  },
+  {
+    "author_uuid": "7c158ef7-ad9a-418e-b663-7d18f9af7ec5",
+    "author_name": "Balashoyu M.",
+    "ORCID": null,
+    "ScopusID": "58562999100",
+    "Categories": {
+      "Chemical Engineering (miscellaneous)": 0.4,
+      "Chemistry (miscellaneous)": 0.4,
+      "Polymers and Plastics": 0.4
+    }
+  },
+  {
+    "author_uuid": "6e52168f-6a75-483c-81e6-4662577c0437",
+    "author_name": "Izosimov I.N.",
+    "ORCID": "https://orcid.org/0000-0003-2744-3453",
+    "ScopusID": "55966065000",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "cf02eab9-438d-43a8-a017-4c4a0844795e",
+    "author_name": "Mamatova M.",
+    "ORCID": null,
+    "ScopusID": "57211485424",
+    "Categories": {
+      "Instrumentation": 0.5,
+      "Radiation": 0.5
+    }
+  },
+  {
+    "author_uuid": "1df56016-2178-49d3-a4cf-6b72ec00a585",
+    "author_name": "Skuratov V.",
+    "ORCID": "https://orcid.org/0000-0002-9016-8370",
+    "ScopusID": "7006325800",
+    "Categories": {
+      "Instrumentation": 0.5,
+      "Radiation": 0.5
+    }
+  },
+  {
+    "author_uuid": "a9a257d7-6ee2-48c4-b134-d25fcbf46c25",
+    "author_name": "Lê P.T.",
+    "ORCID": null,
+    "ScopusID": "58562863500",
+    "Categories": {
+      "Instrumentation": 0.5,
+      "Radiation": 0.5
+    }
+  },
+  {
+    "author_uuid": "54d9577b-9b1e-42c2-82b1-c9989de749f3",
+    "author_name": "Davydov Y.I.",
+    "ORCID": "https://orcid.org/0000-0001-9833-2414",
+    "ScopusID": "7006561889",
+    "Categories": {
+      "Engineering (miscellaneous)": 4.0,
+      "Physics and Astronomy (miscellaneous)": 4.0
+    }
+  },
+  {
+    "author_uuid": "31126581-8baa-447a-968d-75cf6409e025",
+    "author_name": "Glagolev V.",
+    "ORCID": null,
+    "ScopusID": "57216599337",
+    "Categories": {
+      "Engineering (miscellaneous)": 2.0,
+      "Physics and Astronomy (miscellaneous)": 2.0
+    }
+  },
+  {
+    "author_uuid": "3a83c020-5871-45b1-9a08-2927f6ae5a0d",
+    "author_name": "Kiseeva V.",
+    "ORCID": null,
+    "ScopusID": "58309641300",
+    "Categories": {
+      "Engineering (miscellaneous)": 1.3333333333333333,
+      "Physics and Astronomy (miscellaneous)": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "b6445178-33fd-49e6-8054-465ec741d45a",
+    "author_name": "Popov B.",
+    "ORCID": "https://orcid.org/0000-0001-5416-9301",
+    "ScopusID": "7101607383",
+    "Categories": {
+      "Engineering (miscellaneous)": 1.0,
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "70c68762-5051-4018-8a0a-9da2ed9a3db4",
+    "author_name": "Kurakina E.S.",
+    "ORCID": null,
+    "ScopusID": "57210122967",
+    "Categories": {
+      "Chemistry (miscellaneous)": 0.6666666666666666,
+      "Inorganic Chemistry": 0.6666666666666666,
+      "Physical and Theoretical Chemistry": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "81c0ff93-1ca0-410f-91a8-0799fbba2a35",
+    "author_name": "Khushvaktov J.",
+    "ORCID": "https://orcid.org/0000-0002-5823-784X",
+    "ScopusID": "56151839300",
+    "Categories": {
+      "Chemistry (miscellaneous)": 0.6666666666666666,
+      "Inorganic Chemistry": 0.6666666666666666,
+      "Physical and Theoretical Chemistry": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "6928a278-efb8-4001-a400-dcac6e6a9b13",
+    "author_name": "Filosofov D.",
+    "ORCID": null,
+    "ScopusID": "6506322487",
+    "Categories": {
+      "Chemistry (miscellaneous)": 0.6666666666666666,
+      "Inorganic Chemistry": 0.6666666666666666,
+      "Physical and Theoretical Chemistry": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "955637d4-ccd7-4486-93a3-acfc422e46d6",
+    "author_name": "Suslov I.",
+    "ORCID": null,
+    "ScopusID": "35228129000",
+    "Categories": {
+      "Instrumentation": 0.6000000000000001,
+      "Mathematical Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "17d8fc36-bfb8-48c0-b2df-86ab61d54dd1",
+    "author_name": "Nemchenok I.",
+    "ORCID": null,
+    "ScopusID": "8401877000",
+    "Categories": {
+      "Instrumentation": 0.6000000000000001,
+      "Mathematical Physics": 0.6000000000000001,
+      "Engineering (miscellaneous)": 0.035398230088495575,
+      "Physics and Astronomy (miscellaneous)": 0.035398230088495575
+    }
+  },
+  {
+    "author_uuid": "473276f2-f76a-4116-b9be-e60c40896ef4",
+    "author_name": "Klimenko A.",
+    "ORCID": null,
+    "ScopusID": "7101772775",
+    "Categories": {
+      "Instrumentation": 0.6000000000000001,
+      "Mathematical Physics": 0.6000000000000001,
+      "Engineering (miscellaneous)": 0.035398230088495575,
+      "Physics and Astronomy (miscellaneous)": 0.035398230088495575
+    }
+  },
+  {
+    "author_uuid": "5c1c0822-49a3-431b-87ee-7901a14ee6b1",
+    "author_name": "Bystryakov A.",
+    "ORCID": null,
+    "ScopusID": "57372843000",
+    "Categories": {
+      "Instrumentation": 0.6000000000000001,
+      "Mathematical Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "f31a6935-d5c5-4cf0-b569-908bb84f9b48",
+    "author_name": "Kamnev I.",
+    "ORCID": null,
+    "ScopusID": "55894952600",
+    "Categories": {
+      "Instrumentation": 0.6000000000000001,
+      "Mathematical Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "e946fb33-fbb7-489b-ada3-1db2e1d8cbf3",
+    "author_name": "Kalinovsky Y.L.",
+    "ORCID": null,
+    "ScopusID": "6701716933",
+    "Categories": {
+      "Computer Science (miscellaneous)": 0.25,
+      "Modeling and Simulation": 0.25,
+      "Physics and Astronomy (miscellaneous)": 0.25,
+      "Theoretical Computer Science": 0.25
+    }
+  },
+  {
+    "author_uuid": "458c7f61-1beb-4baf-a5cd-60d7d9356836",
+    "author_name": "Friesen A.V.",
+    "ORCID": "https://orcid.org/0000-0002-6744-6766",
+    "ScopusID": "22950397400",
+    "Categories": {
+      "Computer Science (miscellaneous)": 0.25,
+      "Modeling and Simulation": 0.25,
+      "Physics and Astronomy (miscellaneous)": 0.25,
+      "Theoretical Computer Science": 0.25
+    }
+  },
+  {
+    "author_uuid": "2fe72005-a3fb-4b3c-b9db-5121a00aebc9",
+    "author_name": "Rogozhina E.D.",
+    "ORCID": null,
+    "ScopusID": "58565411800",
+    "Categories": {
+      "Computer Science (miscellaneous)": 0.25,
+      "Modeling and Simulation": 0.25,
+      "Physics and Astronomy (miscellaneous)": 0.25,
+      "Theoretical Computer Science": 0.25
+    }
+  },
+  {
+    "author_uuid": "c1dddf8d-ab1a-4f89-81d7-df85fd23f5c0",
+    "author_name": "Golyatkina L.I.",
+    "ORCID": null,
+    "ScopusID": "58565411900",
+    "Categories": {
+      "Computer Science (miscellaneous)": 0.25,
+      "Modeling and Simulation": 0.25,
+      "Physics and Astronomy (miscellaneous)": 0.25,
+      "Theoretical Computer Science": 0.25
+    }
+  },
+  {
+    "author_uuid": "8f72c6bd-2f18-44b3-b8a2-a958238eccff",
+    "author_name": "Fomina M.",
+    "ORCID": "https://orcid.org/0000-0001-6244-9450",
+    "ScopusID": "55804903400",
+    "Categories": {
+      "Engineering (miscellaneous)": 4.0,
+      "Physics and Astronomy (miscellaneous)": 4.0
+    }
+  },
+  {
+    "author_uuid": "612accb1-0db5-454e-ae61-9c5ce35fca7e",
+    "author_name": "Gusev K.",
+    "ORCID": "https://orcid.org/0000-0002-0495-0551",
+    "ScopusID": "57190162423",
+    "Categories": {
+      "Engineering (miscellaneous)": 2.0,
+      "Physics and Astronomy (miscellaneous)": 2.0
+    }
+  },
+  {
+    "author_uuid": "7d25723f-f625-4b91-8024-369065e6942a",
+    "author_name": "Kochetov O.",
+    "ORCID": null,
+    "ScopusID": "7004018829",
+    "Categories": {
+      "Engineering (miscellaneous)": 1.0,
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "eec46f47-ab72-40e6-9abe-34a92d3fe688",
+    "author_name": "Lubashevskiy A.",
+    "ORCID": "https://orcid.org/0000-0002-3712-8249",
+    "ScopusID": "15848864600",
+    "Categories": {
+      "Engineering (miscellaneous)": 0.8,
+      "Physics and Astronomy (miscellaneous)": 0.8
+    }
+  },
+  {
+    "author_uuid": "bc4e7628-8159-4725-93bf-cd0f3cfe0a3c",
+    "author_name": "Rumyantseva N.",
+    "ORCID": "https://orcid.org/0000-0002-2183-4309",
+    "ScopusID": "56989158600",
+    "Categories": {
+      "Engineering (miscellaneous)": 0.5714285714285714,
+      "Physics and Astronomy (miscellaneous)": 0.5714285714285714
+    }
+  },
+  {
+    "author_uuid": "b143079c-3083-4eba-b44d-fe042f1107ab",
+    "author_name": "Shevchik E.",
+    "ORCID": "https://orcid.org/0000-0001-9065-9375",
+    "ScopusID": "26028095100",
+    "Categories": {
+      "Engineering (miscellaneous)": 0.5,
+      "Physics and Astronomy (miscellaneous)": 0.5
+    }
+  },
+  {
+    "author_uuid": "a2c71a4f-3459-4864-b39f-ce06a06af9aa",
+    "author_name": "Shirchenko M.",
+    "ORCID": null,
+    "ScopusID": "6504514082",
+    "Categories": {
+      "Engineering (miscellaneous)": 0.4444444444444444,
+      "Physics and Astronomy (miscellaneous)": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "29d3eedc-712e-46c4-b51e-4e1f606b2299",
+    "author_name": "Smolnikov A.",
+    "ORCID": null,
+    "ScopusID": "6603842754",
+    "Categories": {
+      "Engineering (miscellaneous)": 0.4,
+      "Physics and Astronomy (miscellaneous)": 0.4
+    }
+  },
+  {
+    "author_uuid": "e035748c-4bc5-4290-aea9-d969ad0ee438",
+    "author_name": "Zhitnikov I.",
+    "ORCID": "https://orcid.org/0000-0001-9579-1789",
+    "ScopusID": "55600953300",
+    "Categories": {
+      "Engineering (miscellaneous)": 0.36363636363636365,
+      "Physics and Astronomy (miscellaneous)": 0.36363636363636365
+    }
+  },
+  {
+    "author_uuid": "27af1278-5d27-4563-a149-b8759fa8f826",
+    "author_name": "Zinatulina D.",
+    "ORCID": "https://orcid.org/0000-0001-5526-6146",
+    "ScopusID": "14038298900",
+    "Categories": {
+      "Engineering (miscellaneous)": 0.3333333333333333,
+      "Physics and Astronomy (miscellaneous)": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "bfe3fca4-736f-4648-bcc4-bd020d20c9c6",
+    "author_name": "Turchenko V.A.",
+    "ORCID": "https://orcid.org/0000-0002-4755-3898",
+    "ScopusID": "6603541177",
+    "Categories": {
+      "Ceramics and Composites": 0.36363636363636365,
+      "Electronic, Optical and Magnetic Materials": 0.36363636363636365,
+      "Materials Chemistry": 4.0,
+      "Surfaces, Coatings and Films": 0.36363636363636365,
+      "Process Chemistry and Technology": 0.2727272727272727,
+      "Chemistry (miscellaneous)": 4.0
+    }
+  },
+  {
+    "author_uuid": "786c4adc-4997-43c4-8b4b-966d70d409ba",
+    "author_name": "Filatov Y.N.",
+    "ORCID": "https://orcid.org/0000-0002-4783-9079",
+    "ScopusID": "21742547900",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.14285714285714285
+    }
+  },
+  {
+    "author_uuid": "9bc9f01c-7053-4ce7-ad96-6d0cd18a1164",
+    "author_name": "Butenko A.V.",
+    "ORCID": null,
+    "ScopusID": "13805975300",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.14285714285714285
+    }
+  },
+  {
+    "author_uuid": "47544fe0-a9ec-4e15-aeb4-2435033b03ae",
+    "author_name": "Kostromin S.A.",
+    "ORCID": "https://orcid.org/0000-0003-1337-6851",
+    "ScopusID": "24776233400",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.14285714285714285
+    }
+  },
+  {
+    "author_uuid": "c382bc6a-22ae-46c5-9dee-caeb8c1f0588",
+    "author_name": "Ladygin V.P.",
+    "ORCID": null,
+    "ScopusID": "7004713276",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.6428571428571428
+    }
+  },
+  {
+    "author_uuid": "4d861262-72fa-4456-b7f5-238c05adc4a0",
+    "author_name": "Guryleva I.L.",
+    "ORCID": null,
+    "ScopusID": "57981157000",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.14285714285714285
+    }
+  },
+  {
+    "author_uuid": "fbf3de43-9841-4b7f-b593-8b596db2d7ff",
+    "author_name": "Balbutsev E.B.",
+    "ORCID": null,
+    "ScopusID": "6602413784",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "59199ef7-e5a3-4db3-a543-2d335b8773c5",
+    "author_name": "Molodtsova I.V.",
+    "ORCID": null,
+    "ScopusID": "6602878546",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "90647cec-1967-4f9b-85a4-443c5e961538",
+    "author_name": "Zakharov A.F.",
+    "ORCID": "https://orcid.org/0000-0003-2387-6964",
+    "ScopusID": "8368657300",
+    "Categories": {
+      "Astronomy and Astrophysics": 3.0,
+      "Mathematical Physics": 3.0,
+      "Space and Planetary Science": 2.0
+    }
+  },
+  {
+    "author_uuid": "401b8ff6-427c-44a5-aff0-f29fcaa07591",
+    "author_name": "Wawrzycki J.",
+    "ORCID": null,
+    "ScopusID": "6508204937",
+    "Categories": {
+      "Applied Mathematics": 2.0,
+      "Mathematical Physics": 2.0,
+      "Statistical and Nonlinear Physics": 2.0,
+      "Statistics and Probability": 2.0
+    }
+  },
+  {
+    "author_uuid": "8a2e8a20-99a7-4a0a-944d-c2857491f326",
+    "author_name": "Rymzhanov R.A.",
+    "ORCID": "https://orcid.org/0000-0002-7404-9769",
+    "ScopusID": "55648728100",
+    "Categories": {
+      "Mechanical Engineering": 1.3333333333333333,
+      "Mechanics of Materials": 1.3333333333333333,
+      "Polymers and Plastics": 1.3333333333333333,
+      "Ceramics and Composites": 1.0,
+      "Materials Science (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "f8698f82-2a57-4803-af17-4596cc10c0ea",
+    "author_name": "Ganev H.G.",
+    "ORCID": "https://orcid.org/0000-0003-1568-5201",
+    "ScopusID": "8912760300",
+    "Categories": {
+      "Astronomy and Astrophysics": 4.0,
+      "Instrumentation": 4.0,
+      "Nuclear and High Energy Physics": 4.0
+    }
+  },
+  {
+    "author_uuid": "fad4ba24-75ac-4acd-aca8-8bf0c8198987",
+    "author_name": "Evseev S.A.",
+    "ORCID": null,
+    "ScopusID": "57226568037",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "dddc5364-39d4-4a59-ba35-c9a0079586db",
+    "author_name": "Rozov S.V.",
+    "ORCID": null,
+    "ScopusID": "24825642000",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.16666666666666666
+    }
+  },
+  {
+    "author_uuid": "a54f99cb-3b7b-4c6f-9cbd-471149ea1834",
+    "author_name": "Terekhin A.A.",
+    "ORCID": "https://orcid.org/0000-0003-0690-8434",
+    "ScopusID": "36996071300",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.125
+    }
+  },
+  {
+    "author_uuid": "38260ab9-4519-4ef8-8dd4-8119bae4600f",
+    "author_name": "Isupov A.Y.",
+    "ORCID": null,
+    "ScopusID": "35227423300",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.125
+    }
+  },
+  {
+    "author_uuid": "3810e5f2-bc2e-4af3-aec0-531911d19fa4",
+    "author_name": "Volkov I.S.",
+    "ORCID": null,
+    "ScopusID": "57210956238",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.125
+    }
+  },
+  {
+    "author_uuid": "f85f7bd9-9d18-4338-a0dd-6b64ba424243",
+    "author_name": "Reznikov S.G.",
+    "ORCID": null,
+    "ScopusID": "7003851669",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.125
+    }
+  },
+  {
+    "author_uuid": "30f305e1-0f85-475c-bd03-1324c692ae08",
+    "author_name": "Gurchin Y.V.",
+    "ORCID": null,
+    "ScopusID": "14829127800",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.125
+    }
+  },
+  {
+    "author_uuid": "7c7503f4-4fa5-4eaf-86c4-61b84f75aa79",
+    "author_name": "Tishevsky A.V.",
+    "ORCID": null,
+    "ScopusID": "57200374518",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.125
+    }
+  },
+  {
+    "author_uuid": "264792ec-f144-4823-b712-3a3b48c32b6d",
+    "author_name": "Legostaeva K.S.",
+    "ORCID": null,
+    "ScopusID": "57210955539",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.125
+    }
+  },
+  {
+    "author_uuid": "7383d83c-f27b-40ae-af55-d0f5d42f451d",
+    "author_name": "Chizhov A.V.",
+    "ORCID": null,
+    "ScopusID": "7005245725",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 1.0,
+      "Statistical and Nonlinear Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "3507ab99-38bc-4843-b096-b979802e830d",
+    "author_name": "Bondarenko S.G.",
+    "ORCID": "https://orcid.org/0000-0001-7333-6275",
+    "ScopusID": "7102249640",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.75
+    }
+  },
+  {
+    "author_uuid": "76c06cd3-79b4-4ac1-b781-8bf5415c76dc",
+    "author_name": "Burov V.V.",
+    "ORCID": null,
+    "ScopusID": "7006788928",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 0.75
+    }
+  },
+  {
+    "author_uuid": "e5f6c6eb-d420-4370-8957-816ccb7766a7",
+    "author_name": "Ilgenfritz E.-M.",
+    "ORCID": null,
+    "ScopusID": "7005995243",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "85adc8b0-5450-44af-8371-573fe8cab719",
+    "author_name": "Mueller-Preussker M.",
+    "ORCID": null,
+    "ScopusID": "16441559900",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "c63e741e-6879-47fa-af47-12f9b0c481ce",
+    "author_name": "Donets E.D.",
+    "ORCID": null,
+    "ScopusID": "7004190880",
+    "Categories": {
+      "Instrumentation": 0.15384615384615385,
+      "Medicine (miscellaneous)": 0.15384615384615385
+    }
+  },
+  {
+    "author_uuid": "dc33820b-a7be-4d40-a73d-40af3b1c9954",
+    "author_name": "Donets D.E.",
+    "ORCID": null,
+    "ScopusID": "6507613089",
+    "Categories": {
+      "Instrumentation": 0.15384615384615385,
+      "Medicine (miscellaneous)": 0.15384615384615385
+    }
+  },
+  {
+    "author_uuid": "c1bd7263-eb24-417c-843d-26814e7a452f",
+    "author_name": "Donets E.E.",
+    "ORCID": null,
+    "ScopusID": "55064662300",
+    "Categories": {
+      "Instrumentation": 0.15384615384615385,
+      "Medicine (miscellaneous)": 0.15384615384615385
+    }
+  },
+  {
+    "author_uuid": "5a58b485-cd6f-4978-8e55-a38133e7a7bf",
+    "author_name": "Salnikov V.V.",
+    "ORCID": null,
+    "ScopusID": "56806666500",
+    "Categories": {
+      "Instrumentation": 0.15384615384615385,
+      "Medicine (miscellaneous)": 0.15384615384615385
+    }
+  },
+  {
+    "author_uuid": "cfe3094d-fb71-47c8-8151-2ef707a437f5",
+    "author_name": "Shirkov D.V.",
+    "ORCID": null,
+    "ScopusID": "25638610900",
+    "Categories": {
+      "Mathematical Physics": 4.0,
+      "Statistical and Nonlinear Physics": 4.0
+    }
+  },
+  {
+    "author_uuid": "98dce030-cd94-4229-98b1-c31a52b6c4ab",
+    "author_name": "Azhgirey L.S.",
+    "ORCID": null,
+    "ScopusID": "6602115898",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "21b116d1-2413-4c55-a0f2-b418220e56c7",
+    "author_name": "Afanasiev S.V.",
+    "ORCID": null,
+    "ScopusID": "7004861291",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "9020f053-fb4c-4de0-bb38-53e84e173ed2",
+    "author_name": "Arkhipov V.V.",
+    "ORCID": null,
+    "ScopusID": "7203019124",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "6c31b359-0dbe-4183-aa60-f02a22fde80a",
+    "author_name": "Bondarev V.K.",
+    "ORCID": null,
+    "ScopusID": "7102900164",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.8
+    }
+  },
+  {
+    "author_uuid": "afca1848-bbbf-4ac1-8aec-234adea0c00e",
+    "author_name": "Filipov G.",
+    "ORCID": null,
+    "ScopusID": "6701378150",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6666666666666666
+    }
+  },
+  {
+    "author_uuid": "29d953ba-e889-45b0-9e2b-f8a7a35775fa",
+    "author_name": "Ivanov V.I.",
+    "ORCID": null,
+    "ScopusID": "57198818272",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "de73a70f-98aa-4376-9f8f-44fb47c30d1a",
+    "author_name": "Kashirin V.A.",
+    "ORCID": null,
+    "ScopusID": "7004105198",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4444444444444444
+    }
+  },
+  {
+    "author_uuid": "4cd26f94-6cf1-4dce-9200-a0fa9dff0232",
+    "author_name": "Khrenov A.N.",
+    "ORCID": null,
+    "ScopusID": "7003454665",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.4
+    }
+  },
+  {
+    "author_uuid": "6c7e0633-b685-49da-ad43-c7310915e393",
+    "author_name": "Kuznetsov V.A.",
+    "ORCID": null,
+    "ScopusID": "20434213900",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "a98f47b9-8d38-4161-bd13-7ccd40fe08f8",
+    "author_name": "Ladygina N.B.",
+    "ORCID": null,
+    "ScopusID": "6701831254",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.3076923076923077
+    }
+  },
+  {
+    "author_uuid": "a8b18714-8e6d-4a09-a50f-c7fb25b8b20d",
+    "author_name": "Litvinenko A.G.",
+    "ORCID": null,
+    "ScopusID": "35227669700",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2857142857142857
+    }
+  },
+  {
+    "author_uuid": "bd29e310-4f39-4d4d-99fb-c236cc18786c",
+    "author_name": "Rukoyatkin P.A.",
+    "ORCID": null,
+    "ScopusID": "6602098135",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.25
+    }
+  },
+  {
+    "author_uuid": "7b751fc1-749a-43a9-a439-1a043ef2d7d0",
+    "author_name": "Semenova I.A.",
+    "ORCID": null,
+    "ScopusID": "57212843917",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2222222222222222
+    }
+  },
+  {
+    "author_uuid": "989872bd-af42-4cc7-b635-81afa13189e6",
+    "author_name": "Stoletov G.D.",
+    "ORCID": null,
+    "ScopusID": "6602548030",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.21052631578947367
+    }
+  },
+  {
+    "author_uuid": "1e37c2d0-943f-4da7-85f9-d0792ae3c898",
+    "author_name": "Zhmyrov V.N.",
+    "ORCID": null,
+    "ScopusID": "6602938284",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.2
+    }
+  },
+  {
+    "author_uuid": "19a94532-a74c-4160-9537-b776e26bea13",
+    "author_name": "Zolin L.S.",
+    "ORCID": null,
+    "ScopusID": "6602849238",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.19047619047619047
+    }
+  },
+  {
+    "author_uuid": "c6d975ed-1173-4681-acf5-6c3f1644f8ec",
+    "author_name": "Avdeev L.V.",
+    "ORCID": null,
+    "ScopusID": "6602977828",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "e458f5b9-7460-4330-b46e-5656b901f399",
+    "author_name": "Vladimirov A.A.",
+    "ORCID": null,
+    "ScopusID": "7102276477",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "86a28764-21d3-4bba-8cc6-a3db07ee3936",
+    "author_name": "Pupyshev V.V.",
+    "ORCID": null,
+    "ScopusID": "7005698090",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "20456af9-06d5-4f9e-b552-5c3a4c378dd6",
+    "author_name": "Rakityansky S.A.",
+    "ORCID": null,
+    "ScopusID": "7003789207",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "baf798ec-b21d-4dd1-90b9-e3ffc2d617f2",
+    "author_name": "Kisselev Yu.F.",
+    "ORCID": null,
+    "ScopusID": "6603958307",
+    "Categories": {
+      "Instrumentation": 1.0,
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "e72235e4-cdd4-4aed-ba4d-be4a67e73eb2",
+    "author_name": "Alekseev G.D.",
+    "ORCID": null,
+    "ScopusID": "7101938488",
+    "Categories": {
+      "Engineering (miscellaneous)": 4.0,
+      "Physics and Astronomy (miscellaneous)": 4.0
+    }
+  },
+  {
+    "author_uuid": "6919c3e3-c30d-4218-b768-b92a4dfbe68b",
+    "author_name": "Bardin D.Y.",
+    "ORCID": null,
+    "ScopusID": "7005777494",
+    "Categories": {
+      "Engineering (miscellaneous)": 2.0,
+      "Physics and Astronomy (miscellaneous)": 2.0
+    }
+  },
+  {
+    "author_uuid": "ec4380fe-3f66-47a4-ab37-0d7a77864f21",
+    "author_name": "Khovanski N.N.",
+    "ORCID": null,
+    "ScopusID": "6603159801",
+    "Categories": {
+      "Engineering (miscellaneous)": 0.5,
+      "Physics and Astronomy (miscellaneous)": 0.5
+    }
+  },
+  {
+    "author_uuid": "dd36691f-ab95-46b1-a7fc-229ccbce9a0e",
+    "author_name": "Kouznetsov O.",
+    "ORCID": null,
+    "ScopusID": "35227537400",
+    "Categories": {
+      "Engineering (miscellaneous)": 0.4,
+      "Physics and Astronomy (miscellaneous)": 0.4
+    }
+  },
+  {
+    "author_uuid": "aeaef089-e96a-47f9-8397-98d4075b70ea",
+    "author_name": "Iljinov A.S.",
+    "ORCID": null,
+    "ScopusID": "6701761828",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.75
+    }
+  },
+  {
+    "author_uuid": "dc4432d1-cf94-41d0-a1e4-150afef33cd7",
+    "author_name": "Barashenkov I.V.",
+    "ORCID": null,
+    "ScopusID": "6701836798",
+    "Categories": {
+      "Applied Mathematics": 2.0,
+      "Condensed Matter Physics": 2.0,
+      "Mathematical Physics": 2.0,
+      "Statistical and Nonlinear Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "a03dd695-10ac-4ab6-b6e2-f396deb323b8",
+    "author_name": "Panova E.Y.",
+    "ORCID": null,
+    "ScopusID": "24302967100",
+    "Categories": {
+      "Applied Mathematics": 2.0,
+      "Condensed Matter Physics": 2.0,
+      "Mathematical Physics": 2.0,
+      "Statistical and Nonlinear Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "ace4458b-b4d2-456e-8613-36f73a1a3399",
+    "author_name": "Zupnik B.M.",
+    "ORCID": null,
+    "ScopusID": "55975641500",
+    "Categories": {
+      "Nuclear and High Energy Physics": 5.333333333333333
+    }
+  },
+  {
+    "author_uuid": "2c8a6d8f-f534-492d-8094-168a8b30f6d4",
+    "author_name": "Antonenko N.V.",
+    "ORCID": "https://orcid.org/0000-0002-3666-3389",
+    "ScopusID": "7006561063",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "b35f9776-eb28-4a4b-9f19-f3f4e20a8169",
+    "author_name": "Jolos R.V.",
+    "ORCID": null,
+    "ScopusID": "7006613411",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "92040c2d-b113-4d15-b185-d85c3ae1ffc4",
+    "author_name": "Sidorov A.V.",
+    "ORCID": null,
+    "ScopusID": "57204947755",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "e9e2e6b8-cc05-4a13-9d0e-7c73fd72e312",
+    "author_name": "Penionzhkevich Yu.E.",
+    "ORCID": null,
+    "ScopusID": "7005340529",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.15000000000000002
+    }
+  },
+  {
+    "author_uuid": "57f7dfe2-c323-42d0-8995-fe1425f9ddee",
+    "author_name": "Salamatin V.S.",
+    "ORCID": null,
+    "ScopusID": "6603188550",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.15000000000000002
+    }
+  },
+  {
+    "author_uuid": "4a7bcd60-bd1c-4593-a74c-e549e2c22411",
+    "author_name": "Moiseenko A.S.",
+    "ORCID": null,
+    "ScopusID": "7003789537",
+    "Categories": {
+      "Instrumentation": 0.5
+    }
+  },
+  {
+    "author_uuid": "f5a59e2e-c757-4f51-ac13-d6cfaddaddb9",
+    "author_name": "Filippov A.I.",
+    "ORCID": null,
+    "ScopusID": "57210139685",
+    "Categories": {
+      "Instrumentation": 0.5
+    }
+  },
+  {
+    "author_uuid": "4a93934e-a8d1-4a7a-84da-e60fb034e7de",
+    "author_name": "Apel P.Yu.",
+    "ORCID": "https://orcid.org/0000-0003-1259-163X",
+    "ScopusID": "7005477121",
+    "Categories": {
+      "Instrumentation": 0.25,
+      "Radiation": 0.25
+    }
+  },
+  {
+    "author_uuid": "79b2b7be-c0c3-47b8-9567-98b6e4a1348f",
+    "author_name": "Zhitariuk N.I.",
+    "ORCID": null,
+    "ScopusID": "6506379961",
+    "Categories": {
+      "Instrumentation": 0.25,
+      "Radiation": 0.25
+    }
+  },
+  {
+    "author_uuid": "11f25b0c-912b-46c2-981f-9abc556d87ee",
+    "author_name": "Ivanov E.",
+    "ORCID": null,
+    "ScopusID": "56207576400",
+    "Categories": {
+      "Nuclear and High Energy Physics": 5.0
+    }
+  },
+  {
+    "author_uuid": "2b577e3e-6b1e-4083-adf1-4ef003e2d62e",
+    "author_name": "Krivonos S.",
+    "ORCID": "https://orcid.org/0000-0001-9334-933X",
+    "ScopusID": "56273888500",
+    "Categories": {
+      "Nuclear and High Energy Physics": 5.0,
+      "Physics and Astronomy (miscellaneous)": 3.0,
+      "Astronomy and Astrophysics": 2.0
+    }
+  },
+  {
+    "author_uuid": "2a5994d2-dadd-428b-aed3-16a95978ea7d",
+    "author_name": "Pasyuk V.V.",
+    "ORCID": null,
+    "ScopusID": "6507869618",
+    "Categories": {
+      "Atomic and Molecular Physics, and Optics": 1.0,
+      "Condensed Matter Physics": 1.0,
+      "Nuclear and High Energy Physics": 1.0,
+      "Physical and Theoretical Chemistry": 1.0
+    }
+  },
+  {
+    "author_uuid": "b57eee3a-a50c-4a17-81b9-5ab1ff80db5b",
+    "author_name": "Bardin D.",
+    "ORCID": null,
+    "ScopusID": "57225815052",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "1785b0dc-0d16-4aed-a6fd-d31f0bea9320",
+    "author_name": "Kalinovskaya L.",
+    "ORCID": null,
+    "ScopusID": "6602854198",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "f9486fac-9966-4fb8-9d04-963c79bf4205",
+    "author_name": "Chervyakov A.",
+    "ORCID": null,
+    "ScopusID": "7003500448",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.0
+    }
+  },
+  {
+    "author_uuid": "e4d2c7e0-70d9-4734-8a54-34c003599e86",
+    "author_name": "Gorishny S.G.",
+    "ORCID": null,
+    "ScopusID": "7801629673",
+    "Categories": {
+      "Nuclear and High Energy Physics": 5.333333333333333
+    }
+  },
+  {
+    "author_uuid": "55a79275-5f92-4310-ac9f-a8182b794f81",
+    "author_name": "Nersessian A.",
+    "ORCID": null,
+    "ScopusID": "7004524352",
+    "Categories": {
+      "Nuclear and High Energy Physics": 6.0
+    }
+  },
+  {
+    "author_uuid": "092a7804-f431-45bb-b34d-0f1e3fa818b8",
+    "author_name": "Bednyakov V.A.",
+    "ORCID": null,
+    "ScopusID": "6701403057",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.75,
+      "Astronomy and Astrophysics": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "51b1194d-2b3e-4a4f-b522-55bfe323a687",
+    "author_name": "Brudanin V.B.",
+    "ORCID": null,
+    "ScopusID": "7004358187",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.75,
+      "Astronomy and Astrophysics": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "a9a27700-5a85-4165-bd56-06c4c00097c1",
+    "author_name": "Vylov Ts.D.",
+    "ORCID": null,
+    "ScopusID": "6603724566",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.75,
+      "Astronomy and Astrophysics": 0.5,
+      "Nuclear and High Energy Physics": 0.5
+    }
+  },
+  {
+    "author_uuid": "6aff5f65-6167-476d-9097-0ae5c4d04bcc",
+    "author_name": "Ignatovich V.K.",
+    "ORCID": null,
+    "ScopusID": "7006016540",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.5
+    }
+  },
+  {
+    "author_uuid": "ff67619c-dd93-4f75-b1d9-00ddbdc154c3",
+    "author_name": "Iwanicki J.",
+    "ORCID": null,
+    "ScopusID": "6603042632",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.11764705882352941
+    }
+  },
+  {
+    "author_uuid": "091427c6-ce33-4cdd-b90f-4b2b59ea76ce",
+    "author_name": "Karamian S.A.",
+    "ORCID": null,
+    "ScopusID": "7003362201",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 0.11764705882352941
+    }
+  },
+  {
+    "author_uuid": "52d60353-188f-4522-8082-96e83276b195",
+    "author_name": "Nesterenko V.O.",
+    "ORCID": "https://orcid.org/0000-0001-8497-1979",
+    "ScopusID": "7101621975",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "9dc84e1b-3b52-4b18-b4b7-b4c1d9b641e3",
+    "author_name": "Bastrukov S.I.",
+    "ORCID": null,
+    "ScopusID": "7003584017",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "10392a13-a1a4-4ec2-9568-b9cc34e2766b",
+    "author_name": "Larin S.A.",
+    "ORCID": null,
+    "ScopusID": "7003274081",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "ca323a98-6aa4-402c-a7ca-6e9f5d7fbbfb",
+    "author_name": "Nguyen Dinh Dang",
+    "ORCID": null,
+    "ScopusID": "7409679825",
+    "Categories": {
+      "Nuclear and High Energy Physics": 3.0
+    }
+  },
+  {
+    "author_uuid": "dbc84713-e752-4fec-9073-d2389067c8d2",
+    "author_name": "Ebert D.",
+    "ORCID": null,
+    "ScopusID": "7102742970",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "f3d47a02-9048-46f9-8fbe-27988fa34ae7",
+    "author_name": "Kotikov A.V.",
+    "ORCID": null,
+    "ScopusID": "7004218885",
+    "Categories": {
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "e8cd95d5-754f-444d-972c-cde8dac2d72c",
+    "author_name": "Lyubovitskij V.E.",
+    "ORCID": null,
+    "ScopusID": "7004155181",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "929a5ef9-a21f-4d48-bd39-6b482d536e3c",
+    "author_name": "Rusetsky A.",
+    "ORCID": null,
+    "ScopusID": "55979779100",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.0
+    }
+  },
+  {
+    "author_uuid": "e37ad52c-0e8d-4536-b6f0-2737aabd2888",
+    "author_name": "Ignatyuk A.V.",
+    "ORCID": "https://orcid.org/0000-0002-9504-7535",
+    "ScopusID": "6701683498",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "de6e556f-697a-4fa3-b4b8-760e6335e9df",
+    "author_name": "Molina L.H.",
+    "ORCID": null,
+    "ScopusID": "57195099482",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "c4767ba7-6cb2-464a-b51a-d813176d2047",
+    "author_name": "Pomorsky K.",
+    "ORCID": null,
+    "ScopusID": "24833416500",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.6000000000000001
+    }
+  },
+  {
+    "author_uuid": "efd74d7a-c595-4025-bebd-8abe3aa7a429",
+    "author_name": "Yukalov V.I.",
+    "ORCID": null,
+    "ScopusID": "7005455371",
+    "Categories": {
+      "Condensed Matter Physics": 1.5,
+      "Statistical and Nonlinear Physics": 1.5,
+      "Statistics and Probability": 1.5
+    }
+  },
+  {
+    "author_uuid": "0a4b23d2-4b1f-449a-b446-2f4d4d7e26e7",
+    "author_name": "Yukalova E.P.",
+    "ORCID": null,
+    "ScopusID": "7003500092",
+    "Categories": {
+      "Condensed Matter Physics": 1.5,
+      "Statistical and Nonlinear Physics": 1.5,
+      "Statistics and Probability": 1.5
+    }
+  },
+  {
+    "author_uuid": "b44d0dce-8b5e-45a2-b385-29856e70d128",
+    "author_name": "Norseyev Yu.V.",
+    "ORCID": null,
+    "ScopusID": "6503919975",
+    "Categories": {
+      "Nuclear Energy and Engineering": 0.6000000000000001,
+      "Analytical Chemistry": 0.4,
+      "Health, Toxicology and Mutagenesis": 0.4,
+      "Pollution": 0.4,
+      "Public Health, Environmental and Occupational Health": 0.4,
+      "Radiology, Nuclear Medicine and Imaging": 0.4,
+      "Spectroscopy": 0.4
+    }
+  },
+  {
+    "author_uuid": "33ed3f1c-dbef-424a-ac3a-cb7b6114daba",
+    "author_name": "Nhan D.D.",
+    "ORCID": null,
+    "ScopusID": "16464457000",
+    "Categories": {
+      "Nuclear Energy and Engineering": 0.6000000000000001,
+      "Analytical Chemistry": 0.4,
+      "Health, Toxicology and Mutagenesis": 0.4,
+      "Pollution": 0.4,
+      "Public Health, Environmental and Occupational Health": 0.4,
+      "Radiology, Nuclear Medicine and Imaging": 0.4,
+      "Spectroscopy": 0.4
+    }
+  },
+  {
+    "author_uuid": "92df5ae3-1ca6-48dc-8c1e-269363250b8c",
+    "author_name": "Huan N.Q.",
+    "ORCID": null,
+    "ScopusID": "16463538300",
+    "Categories": {
+      "Nuclear Energy and Engineering": 0.6000000000000001,
+      "Analytical Chemistry": 0.4,
+      "Health, Toxicology and Mutagenesis": 0.4,
+      "Pollution": 0.4,
+      "Public Health, Environmental and Occupational Health": 0.4,
+      "Radiology, Nuclear Medicine and Imaging": 0.4,
+      "Spectroscopy": 0.4
+    }
+  },
+  {
+    "author_uuid": "5ca9be38-2e6d-48b1-bf7b-a65a1b6fbcca",
+    "author_name": "Shevchenko N.V.",
+    "ORCID": "https://orcid.org/0000-0001-9619-1590",
+    "ScopusID": "7103199393",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.8
+    }
+  },
+  {
+    "author_uuid": "c0b28571-75e2-4e5e-89a9-124ccf122bad",
+    "author_name": "Belyaev V.B.",
+    "ORCID": null,
+    "ScopusID": "7103343510",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.8
+    }
+  },
+  {
+    "author_uuid": "218e2216-b549-499e-b6e8-4076775da4d7",
+    "author_name": "Stryczniewicz K.",
+    "ORCID": null,
+    "ScopusID": "24552608500",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "59c232b3-1428-49a4-9ba0-cdcff0e425ae",
+    "author_name": "Yutlandov I.",
+    "ORCID": null,
+    "ScopusID": "6506352365",
+    "Categories": {
+      "Nuclear and High Energy Physics": 0.42857142857142855
+    }
+  },
+  {
+    "author_uuid": "a2690c2f-c9e6-4fbd-ba8a-2c17ef7707d7",
+    "author_name": "Sochichiu C.",
+    "ORCID": null,
+    "ScopusID": "7004315661",
+    "Categories": {
+      "Nuclear and High Energy Physics": 1.3333333333333333
+    }
+  },
+  {
+    "author_uuid": "48cb74dc-7218-4890-9eff-7f504fe3a397",
+    "author_name": "Filippov A.T.",
+    "ORCID": null,
+    "ScopusID": "57212976681",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 3.0,
+      "Astronomy and Astrophysics": 2.0,
+      "Nuclear and High Energy Physics": 2.0
+    }
+  },
+  {
+    "author_uuid": "508410a2-917e-4188-8e3a-4c982dee1727",
+    "author_name": "Pashnev A.",
+    "ORCID": null,
+    "ScopusID": "6701832109",
+    "Categories": {
+      "Physics and Astronomy (miscellaneous)": 1.0,
+      "Astronomy and Astrophysics": 0.6666666666666666,
+      "Nuclear and High Energy Physics": 0.6666666666666666
+    }
+  }
+]
